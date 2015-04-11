@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "110014",
+    "officename": "Hari Nagar Ashram S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi South",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "South Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110014",
+    "officename": "Jeevan Nagar B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi South",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "South Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110014",
+    "officename": "Jungpura S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "New Delhi South",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "South Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110014",
+    "officename": "Pratap Market S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi South",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "South Delhi",
+    "statename": "DELHI"
+  }
+]
