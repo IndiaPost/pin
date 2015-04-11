@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "110078",
+    "officename": "Distt. Court Complex, Dwarka S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "",
+    "Districtname": "West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110078",
+    "officename": "GGSIP University S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "",
+    "Districtname": "West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110078",
+    "officename": "Kakrola B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "New Delhi West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "South West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110078",
+    "officename": "N.S.I.T. Dwarka S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "New Delhi West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "South West Delhi",
+    "statename": "DELHI"
+  }
+]
