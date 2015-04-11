@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "273004",
+    "officename": "Ashok Nagar S.O (Gorakhpur)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gorakhpur",
+    "regionname": "Gorakhpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Gorakhpur",
+    "Districtname": "Gorakhpur",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "273004",
+    "officename": "Basharatpur S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gorakhpur",
+    "regionname": "Gorakhpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Gorakhpur",
+    "Districtname": "Gorakhpur",
+    "statename": "UTTAR PRADESH"
+  }
+]
