@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "382010",
+    "officename": "Gandhinagar (Gujarat) H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gandhinagar",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Gandhinagar",
+    "Districtname": "Gandhi Nagar",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "382010",
+    "officename": "New Sachivalaya Complex S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gandhinagar",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Gandhinagar",
+    "Districtname": "Gandhi Nagar",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "382010",
+    "officename": "Vidhansabha S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gandhinagar",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Gandhinagar",
+    "Districtname": "Gandhi Nagar",
+    "statename": "GUJARAT"
+  }
+]
