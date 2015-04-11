@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "322021",
+    "officename": "Alanpur S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Sawaimadhopur",
+    "regionname": "Jaipur HQ",
+    "circlename": "Rajasthan",
+    "Taluk": "",
+    "Districtname": "Sawai Madhopur",
+    "statename": "RAJASTHAN"
+  },
+  {
+    "pincode": "322021",
+    "officename": "Sawaimadhopur Bazar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Sawaimadhopur",
+    "regionname": "Jaipur HQ",
+    "circlename": "Rajasthan",
+    "Taluk": "Sawaimadhopur",
+    "Districtname": "Sawai Madhopur",
+    "statename": "RAJASTHAN"
+  },
+  {
+    "pincode": "322021",
+    "officename": "Sawaimadhopur Town S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Sawaimadhopur",
+    "regionname": "Jaipur HQ",
+    "circlename": "Rajasthan",
+    "Taluk": "Sawaimadhopur",
+    "Districtname": "Sawai Madhopur",
+    "statename": "RAJASTHAN"
+  }
+]
