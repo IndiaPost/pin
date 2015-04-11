@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "160012",
+    "officename": "Engg College S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Chandigarh",
+    "Districtname": "Chandigarh",
+    "statename": "CHANDIGARH"
+  },
+  {
+    "pincode": "160012",
+    "officename": "Sector 12 (Chandigarh) S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Chandigarh",
+    "Districtname": "Chandigarh",
+    "statename": "CHANDIGARH"
+  }
+]
