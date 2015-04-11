@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "360560",
+    "officename": "Amardad B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Porbandar",
+    "regionname": "Rajkot",
+    "circlename": "Gujarat",
+    "Taluk": "",
+    "Districtname": "Porbandar",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "360560",
+    "officename": "Dharampur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Porbandar",
+    "regionname": "Rajkot",
+    "circlename": "Gujarat",
+    "Taluk": "Ranavav",
+    "Districtname": "Porbandar",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "360560",
+    "officename": "Ranavav Railway Station S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Porbandar",
+    "regionname": "Rajkot",
+    "circlename": "Gujarat",
+    "Taluk": "Ranavav",
+    "Districtname": "Porbandar",
+    "statename": "GUJARAT"
+  }
+]
