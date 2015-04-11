@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "171009",
+    "officename": "Beolia B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Shimla",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "171009",
+    "officename": "Kasumpti S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Shimla Urban(T)",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "171009",
+    "officename": "New Shimla S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Shimla Urban(T)",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "171009",
+    "officename": "Rajhana B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Shimla",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  }
+]
