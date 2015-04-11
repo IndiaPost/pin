@@ -1,0 +1,74 @@
+[
+  {
+    "pincode": "201310",
+    "officename": "Alpha Greater Noida S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Noida",
+    "Districtname": "Gautam Buddha Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "201310",
+    "officename": "Ghori B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Dadri",
+    "Districtname": "Gautam Buddha Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "201310",
+    "officename": "Kasna B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Dadri",
+    "Districtname": "Gautam Buddha Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "201310",
+    "officename": "Knowledge Park-I S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Gautam Budh Nagar",
+    "Districtname": "Gautam Buddha Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "201310",
+    "officename": "Maicha B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Maicha",
+    "Districtname": "Gautam Buddha Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "201310",
+    "officename": "Tugalpur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "A.g.nioda",
+    "Districtname": "Gautam Buddha Nagar",
+    "statename": "UTTAR PRADESH"
+  }
+]
