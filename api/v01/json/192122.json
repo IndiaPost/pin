@@ -1,0 +1,98 @@
+[
+  {
+    "pincode": "192122",
+    "officename": "Anantnag City S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "",
+    "Districtname": "Ananthnag",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "192122",
+    "officename": "Awantipora S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Awantipora",
+    "Districtname": "Pulwama",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "192122",
+    "officename": "Barsoo B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Barsoo",
+    "Districtname": "Ananthnag",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "192122",
+    "officename": "Chandhara B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Pulwama",
+    "Districtname": "Ananthnag",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "192122",
+    "officename": "Cheersoo B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Pulwama",
+    "Districtname": "Ananthnag",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "192122",
+    "officename": "Gairoo B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Pulwama",
+    "Districtname": "Ananthnag",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "192122",
+    "officename": "Gouripora B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Pulwama",
+    "Districtname": "Ananthnag",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "192122",
+    "officename": "Lathpora B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Pulwama",
+    "Districtname": "Ananthnag",
+    "statename": "JAMMU & KASHMIR"
+  }
+]
