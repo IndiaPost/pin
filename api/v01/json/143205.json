@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "143205",
+    "officename": "Butter Sivya B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Amritsar",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Sathiala",
+    "Districtname": "Amritsar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "143205",
+    "officename": "Dhardeo B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Amritsar",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "",
+    "Districtname": "Amritsar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "143205",
+    "officename": "Ghagar Bhana B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Amritsar",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Sathiala",
+    "Districtname": "Amritsar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "143205",
+    "officename": "Sathiala S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Amritsar",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Amritsar",
+    "Districtname": "Amritsar",
+    "statename": "PUNJAB"
+  }
+]
