@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "171003",
+    "officename": "AGPO S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Shimla Urban(T)",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "171003",
+    "officename": "AHQ S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Shimla Urban(T)",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "171003",
+    "officename": "Bhont B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Shimla",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "171003",
+    "officename": "Kaithu B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Shimla Urban(T)",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  }
+]
