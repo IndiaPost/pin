@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "208005",
+    "officename": "Hns Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Kanpur City",
+    "regionname": "Kanpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Lajpat Nagar",
+    "Districtname": "Kanpur Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "208005",
+    "officename": "Sarvodaya Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Kanpur City",
+    "regionname": "Kanpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Sarvodaya Nagar",
+    "Districtname": "Kanpur Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "208005",
+    "officename": "Shivaji Nagar S.O (Kanpur Nagar)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Kanpur City",
+    "regionname": "Kanpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Shivaji Nagar",
+    "Districtname": "Kanpur Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "208005",
+    "officename": "Vijai Nagar S.O (Kanpur Nagar)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Kanpur City",
+    "regionname": "Kanpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Vijai Nagar",
+    "Districtname": "Kanpur Nagar",
+    "statename": "UTTAR PRADESH"
+  }
+]
