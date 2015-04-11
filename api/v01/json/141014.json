@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "141014",
+    "officename": "Daba Road S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ludhiana City",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Ludhiana",
+    "Districtname": "Ludhiana",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "141014",
+    "officename": "Dhandari Kalan S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ludhiana City",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Ludhiana",
+    "Districtname": "Ludhiana",
+    "statename": "PUNJAB"
+  }
+]
