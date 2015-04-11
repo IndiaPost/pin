@@ -1,0 +1,98 @@
+[
+  {
+    "pincode": "123102",
+    "officename": "Ahrod B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Ahrod",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "123102",
+    "officename": "Basduda B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Basduda",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "123102",
+    "officename": "Chita Dungra B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Chita Dungra",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "123102",
+    "officename": "Gothra B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Gothra",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "123102",
+    "officename": "Kolana B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Kolana",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "123102",
+    "officename": "Kund S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Kund",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "123102",
+    "officename": "Nangal Jamalpur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Nangal Jamalpur",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "123102",
+    "officename": "Pali B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Pali",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  }
+]
