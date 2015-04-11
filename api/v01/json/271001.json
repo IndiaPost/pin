@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "271001",
+    "officename": "Civil Line S.O (Gonda)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gonda",
+    "regionname": "Gorakhpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Gonda",
+    "Districtname": "Gonda",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "271001",
+    "officename": "Gonda H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gonda",
+    "regionname": "Gorakhpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Gonda",
+    "Districtname": "Gonda",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "271001",
+    "officename": "P A C S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gonda",
+    "regionname": "Gorakhpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Gonda",
+    "Districtname": "Gonda",
+    "statename": "UTTAR PRADESH"
+  }
+]
