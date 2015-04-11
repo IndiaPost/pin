@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "262402",
+    "officename": "Bindhukhatta S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Nainital",
+    "regionname": "Dehradun",
+    "circlename": "Uttarakhand",
+    "Taluk": "Lalkuwan",
+    "Districtname": "Nainital",
+    "statename": "UTTARAKHAND"
+  },
+  {
+    "pincode": "262402",
+    "officename": "Lalkua S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Nainital",
+    "regionname": "Dehradun",
+    "circlename": "Uttarakhand",
+    "Taluk": "Nainital",
+    "Districtname": "Nainital",
+    "statename": "UTTARAKHAND"
+  }
+]
