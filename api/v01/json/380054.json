@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "380054",
+    "officename": "Bodakdev S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ahmedabad City",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Ahmadabad City",
+    "Districtname": "Ahmedabad",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "380054",
+    "officename": "Thaltej Road S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ahmedabad City",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Ahmadabad City",
+    "Districtname": "Ahmedabad",
+    "statename": "GUJARAT"
+  }
+]
