@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "363001",
+    "officename": "Surendranagar H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Surendranagar",
+    "regionname": "Rajkot",
+    "circlename": "Gujarat",
+    "Taluk": "Wadhwanicity",
+    "Districtname": "Surendra Nagar",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "363001",
+    "officename": "Surendranagar Vadipara S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Surendranagar",
+    "regionname": "Rajkot",
+    "circlename": "Gujarat",
+    "Taluk": "Wadhwancity",
+    "Districtname": "Surendra Nagar",
+    "statename": "GUJARAT"
+  }
+]
