@@ -1,0 +1,74 @@
+[
+  {
+    "pincode": "123103",
+    "officename": "Balwari B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Rewari",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "123103",
+    "officename": "Dhawana B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Dhawana",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "123103",
+    "officename": "Khaleta B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Khaleta",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "123103",
+    "officename": "Khol S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Khol",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "123103",
+    "officename": "Mandola B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Mandola",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "123103",
+    "officename": "Mayan B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Mayan",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  }
+]
