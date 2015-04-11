@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "140114",
+    "officename": "Bharatgarh Canal Colony B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Rupnagar",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140114",
+    "officename": "Bharatgarh S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Bharatgarh",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140114",
+    "officename": "Gardley B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  }
+]
