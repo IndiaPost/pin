@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "201301",
+    "officename": "Noida H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Noida",
+    "Districtname": "Gautam Buddha Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "201301",
+    "officename": "Noida Sector 12 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Noida",
+    "Districtname": "Gautam Buddha Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "201301",
+    "officename": "Noida Sector 16 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Noida",
+    "Districtname": "Gautam Buddha Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "201301",
+    "officename": "Noida Sector 27 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Noida",
+    "Districtname": "Ghaziabad",
+    "statename": "UTTAR PRADESH"
+  }
+]
