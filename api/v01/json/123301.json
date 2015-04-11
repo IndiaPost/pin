@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "123301",
+    "officename": "Guriani S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Guriani",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "123301",
+    "officename": "Jakhala B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Jakhala",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "123301",
+    "officename": "Rattanthal B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Rattanthal",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  }
+]
