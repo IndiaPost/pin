@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "192230",
+    "officename": "Chanderwadi (Sessional) S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "",
+    "Districtname": "Ananthnag",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "192230",
+    "officename": "Sheshanag (Sessional) S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "",
+    "Districtname": "Ananthnag",
+    "statename": "JAMMU & KASHMIR"
+  }
+]
