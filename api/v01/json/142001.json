@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "142001",
+    "officename": "Gtr Moga S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Faridkot",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Moga",
+    "Districtname": "Moga",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "142001",
+    "officename": "Industrial Area Moga S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Faridkot",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Moga",
+    "Districtname": "Moga",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "142001",
+    "officename": "Moga H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Faridkot",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Moga",
+    "Districtname": "Moga",
+    "statename": "PUNJAB"
+  }
+]
