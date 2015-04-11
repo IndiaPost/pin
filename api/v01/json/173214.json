@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "173214",
+    "officename": "Kasauli MT B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Solan",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Kasauli(T)",
+    "Districtname": "Solan",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "173214",
+    "officename": "Salogra B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Solan",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Solan",
+    "Districtname": "Solan",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "173214",
+    "officename": "Solan Brewery S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Solan",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Solan",
+    "Districtname": "Solan",
+    "statename": "HIMACHAL PRADESH"
+  }
+]
