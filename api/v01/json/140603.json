@@ -1,0 +1,62 @@
+[
+  {
+    "pincode": "140603",
+    "officename": "Chhatt B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Rajpura",
+    "Districtname": "Patiala",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140603",
+    "officename": "Dayalpur Sodhian B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Rajpura",
+    "Districtname": "Patiala",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140603",
+    "officename": "Dhakauli B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Patiala",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Dera Bassi",
+    "Districtname": "Patiala",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140603",
+    "officename": "Pabhat B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Patiala",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "S.A.S.Nagar (Mohali)",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140603",
+    "officename": "Zirakpur S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Rajpura",
+    "Districtname": "Mohali",
+    "statename": "PUNJAB"
+  }
+]
