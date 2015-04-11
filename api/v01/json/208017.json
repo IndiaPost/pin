@@ -1,0 +1,62 @@
+[
+  {
+    "pincode": "208017",
+    "officename": "Avas Vikas Yojna No. 3 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Kanpur City",
+    "regionname": "Kanpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Avas Vikas Yojna No. 3",
+    "Districtname": "Kanpur Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "208017",
+    "officename": "Bairi B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Kanpur City",
+    "regionname": "Kanpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Bairi Gaon",
+    "Districtname": "Kanpur Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "208017",
+    "officename": "Kalyanpur S.O (Kanpur Nagar)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Kanpur City",
+    "regionname": "Kanpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Kalyanpur",
+    "Districtname": "Kanpur Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "208017",
+    "officename": "Keshav Puram S.O (Kanpur Nagar)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Kanpur City",
+    "regionname": "Kanpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Kanpur",
+    "Districtname": "Kanpur Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "208017",
+    "officename": "Nsi S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Kanpur City",
+    "regionname": "Kanpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Nsi Campus",
+    "Districtname": "Kanpur Nagar",
+    "statename": "UTTAR PRADESH"
+  }
+]
