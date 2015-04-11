@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "110028",
+    "officename": "Kair B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "South West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110028",
+    "officename": "Khaira B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "South West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110028",
+    "officename": "Naraina Industrial Estate H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "New Delhi West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "South West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110028",
+    "officename": "Naraina Village S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "South West Delhi",
+    "statename": "DELHI"
+  }
+]
