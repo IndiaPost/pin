@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "380006",
+    "officename": "Ambawadi S.O (Ahmedabad)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ahmedabad City",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Ahmadabad City",
+    "Districtname": "Ahmedabad",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "380006",
+    "officename": "Ellisbridge S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ahmedabad City",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Ahmadabad City",
+    "Districtname": "Ahmedabad",
+    "statename": "GUJARAT"
+  }
+]
