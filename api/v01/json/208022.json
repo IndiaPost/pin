@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "208022",
+    "officename": "Ratan Lal Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Kanpur City",
+    "regionname": "Kanpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Ratan Lal Nagar",
+    "Districtname": "Kanpur Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "208022",
+    "officename": "Udyog Nagar S.O (Kanpur Nagar)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Kanpur City",
+    "regionname": "Kanpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Dada Nagar",
+    "Districtname": "Kanpur Nagar",
+    "statename": "UTTAR PRADESH"
+  }
+]
