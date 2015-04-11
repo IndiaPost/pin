@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "201001",
+    "officename": "Ashok Nagar S.O (Ghaziabad)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Ghaziabad",
+    "Districtname": "Ghaziabad",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "201001",
+    "officename": "Ghaziabad H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Ghaziabad",
+    "Districtname": "Ghaziabad",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "201001",
+    "officename": "Nehru Nagar S.O (Ghaziabad)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Ghaziabad",
+    "Districtname": "Ghaziabad",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "201001",
+    "officename": "Ramte Ram Road S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Ghaziabad",
+    "Districtname": "Ghaziabad",
+    "statename": "UTTAR PRADESH"
+  }
+]
