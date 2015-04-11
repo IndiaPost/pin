@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "382415",
+    "officename": "Odhav Industrial Estate S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ahmedabad City",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Ahmadabad City",
+    "Districtname": "Ahmedabad",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "382415",
+    "officename": "Odhav S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ahmedabad City",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Ahmadabad City",
+    "Districtname": "Ahmedabad",
+    "statename": "GUJARAT"
+  }
+]
