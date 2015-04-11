@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "177207",
+    "officename": "Ispur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Una",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Haroli",
+    "Districtname": "Una",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "177207",
+    "officename": "Khad B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Una",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Una(T)",
+    "Districtname": "Una",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "177207",
+    "officename": "Pandogha S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Una",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Una(T)",
+    "Districtname": "Una",
+    "statename": "HIMACHAL PRADESH"
+  }
+]
