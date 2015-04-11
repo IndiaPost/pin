@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "226022",
+    "officename": "Kalyanpur S.O (Lucknow)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Lucknow",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Lucknow",
+    "Districtname": "Lucknow",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "226022",
+    "officename": "Vikas Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Lucknow",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Lucknow",
+    "Districtname": "Lucknow",
+    "statename": "UTTAR PRADESH"
+  }
+]
