@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "151203",
+    "officename": "Faridkot H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Faridkot",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Faridkot",
+    "Districtname": "Faridkot",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "151203",
+    "officename": "Faridkot Mandi S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Faridkot",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Faridkot",
+    "Districtname": "Faridkot",
+    "statename": "PUNJAB"
+  }
+]
