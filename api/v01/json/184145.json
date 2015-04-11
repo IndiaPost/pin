@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "184145",
+    "officename": "Chiliari B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Hiranagar",
+    "Districtname": "Kathua",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "184145",
+    "officename": "Rajpura S.O (Kathua)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Hiranagar",
+    "Districtname": "Kathua",
+    "statename": "JAMMU & KASHMIR"
+  }
+]
