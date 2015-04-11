@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "110076",
+    "officename": "Madanpur Khadar B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi South",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "South Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110076",
+    "officename": "Sarita Vihar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "New Delhi South",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "South Delhi",
+    "statename": "DELHI"
+  }
+]
