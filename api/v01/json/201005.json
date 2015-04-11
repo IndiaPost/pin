@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "201005",
+    "officename": "Bhopura",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Loni",
+    "Districtname": "Ghaziabad",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "201005",
+    "officename": "Pasonda B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Pasonda",
+    "Districtname": "Ghaziabad",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "201005",
+    "officename": "Sahibabad S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Ghaziabad",
+    "Districtname": "Ghaziabad",
+    "statename": "UTTAR PRADESH"
+  }
+]
