@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "160001",
+    "officename": "High Court S.O (Chandigarh)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Chandigarh",
+    "Districtname": "Chandigarh",
+    "statename": "CHANDIGARH"
+  },
+  {
+    "pincode": "160001",
+    "officename": "New Sectt Chandigarh S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Chandigarh",
+    "Districtname": "Chandigarh",
+    "statename": "CHANDIGARH"
+  },
+  {
+    "pincode": "160001",
+    "officename": "Vidhansadan S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Chandigarh",
+    "Districtname": "Chandigarh",
+    "statename": "CHANDIGARH"
+  }
+]
