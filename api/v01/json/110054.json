@@ -1,0 +1,62 @@
+[
+  {
+    "pincode": "110054",
+    "officename": "Aruna Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Delhi North",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "North",
+    "Districtname": "North Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110054",
+    "officename": "Civil Lines S.O (North Delhi)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Delhi North",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "Delhi",
+    "Districtname": "North Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110054",
+    "officename": "District Courts S.O (North Delhi)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Delhi North",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "Delhi",
+    "Districtname": "North Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110054",
+    "officename": "Patrachar Vidyalay S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Delhi North",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "Delhi",
+    "Districtname": "North Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110054",
+    "officename": "Timarpur S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Delhi North",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "Delhi",
+    "Districtname": "North Delhi",
+    "statename": "DELHI"
+  }
+]
