@@ -1,0 +1,62 @@
+[
+  {
+    "pincode": "211011",
+    "officename": "Begumsarai S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Allahabad",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Sirathu",
+    "Districtname": "Kaushambi",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "211011",
+    "officename": "Dhoomanganj S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Allahabad",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Allahabad",
+    "Districtname": "Allahabad",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "211011",
+    "officename": "Rajrooppur S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Allahabad",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Allahabad",
+    "Districtname": "Allahabad",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "211011",
+    "officename": "Sulem Sarai B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Allahabad",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Allahabad",
+    "Districtname": "Allahabad",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "211011",
+    "officename": "Umarpur Neewan B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Allahabad",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Allahabad **",
+    "Districtname": "Allahabad",
+    "statename": "UTTAR PRADESH"
+  }
+]
