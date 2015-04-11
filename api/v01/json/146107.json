@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "146107",
+    "officename": "Hakumatpur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Hoshiarpur",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Hoshiarpur",
+    "Districtname": "Hoshiarpur",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "146107",
+    "officename": "Kharaudi B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Hoshiarpur",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Hoshiarpur",
+    "Districtname": "Hoshiarpur",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "146107",
+    "officename": "Paldi S.O (Hoshiarpur)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Hoshiarpur",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Hoshiarpur",
+    "Districtname": "Hoshiarpur",
+    "statename": "PUNJAB"
+  }
+]
