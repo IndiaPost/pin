@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "362520",
+    "officename": "Diu S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Junagadh",
+    "regionname": "Rajkot",
+    "circlename": "Gujarat",
+    "Taluk": "Diu",
+    "Districtname": "Diu",
+    "statename": "DAMAN & DIU"
+  },
+  {
+    "pincode": "362520",
+    "officename": "Diu Zampa S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Junagadh",
+    "regionname": "Rajkot",
+    "circlename": "Gujarat",
+    "Taluk": "Diu",
+    "Districtname": "Diu",
+    "statename": "DAMAN & DIU"
+  },
+  {
+    "pincode": "362520",
+    "officename": "Fudam B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Junagadh",
+    "regionname": "Rajkot",
+    "circlename": "Gujarat",
+    "Taluk": "Diu",
+    "Districtname": "Diu",
+    "statename": "DAMAN & DIU"
+  }
+]
