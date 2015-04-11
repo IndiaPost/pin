@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "143532",
+    "officename": "Behrampur S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gurdaspur",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Gurdaspur",
+    "Districtname": "Gurdaspur",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "143532",
+    "officename": "Bharath B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gurdaspur",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Pathankot",
+    "Districtname": "Gurdaspur",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "143532",
+    "officename": "Dodwan B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gurdaspur",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "",
+    "Districtname": "Gurdaspur",
+    "statename": "PUNJAB"
+  }
+]
