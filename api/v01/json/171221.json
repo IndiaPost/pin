@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "171221",
+    "officename": "Dodra B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Rohru",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "171221",
+    "officename": "Jakha B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Rohru",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "171221",
+    "officename": "Kawar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Dodra Kawar",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  }
+]
