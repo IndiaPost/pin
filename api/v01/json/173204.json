@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "173204",
+    "officename": "KASAULI M T B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Solan",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Kasauli",
+    "Districtname": "Solan",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "173204",
+    "officename": "Kasauli RI B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Solan",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Kasauli(T)",
+    "Districtname": "Solan",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "173204",
+    "officename": "Kasauli S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Solan",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "",
+    "Districtname": "Solan",
+    "statename": "HIMACHAL PRADESH"
+  }
+]
