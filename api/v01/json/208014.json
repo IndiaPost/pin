@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "208014",
+    "officename": "Juhi Colony S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Kanpur City",
+    "regionname": "Kanpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Juhi",
+    "Districtname": "Kanpur Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "208014",
+    "officename": "Nirala Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Kanpur City",
+    "regionname": "Kanpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Nirala Nagar",
+    "Districtname": "Kanpur Nagar",
+    "statename": "UTTAR PRADESH"
+  }
+]
