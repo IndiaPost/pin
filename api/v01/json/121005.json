@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "121005",
+    "officename": "Faridabad Sector 22 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Faridabad",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Faridabad",
+    "Districtname": "Faridabad",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "121005",
+    "officename": "Jawahar Colony Faridabad S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Faridabad",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Faridabad",
+    "Districtname": "Faridabad",
+    "statename": "HARYANA"
+  }
+]
