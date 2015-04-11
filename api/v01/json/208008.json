@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "208008",
+    "officename": "CAT S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Kanpur City",
+    "regionname": "Kanpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Chakeri",
+    "Districtname": "Kanpur Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "208008",
+    "officename": "Chakeri Aerodrum S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Kanpur City",
+    "regionname": "Kanpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Chakeri",
+    "Districtname": "Kanpur Nagar",
+    "statename": "UTTAR PRADESH"
+  }
+]
