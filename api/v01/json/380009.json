@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "380009",
+    "officename": "Ashram Road S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ahmedabad City",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Ahmadabad City",
+    "Districtname": "Ahmedabad",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "380009",
+    "officename": "Darpan Society S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ahmedabad City",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "City Taluka",
+    "Districtname": "Ahmedabad",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "380009",
+    "officename": "Gujarat University S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ahmedabad City",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Ahmadabad City",
+    "Districtname": "Ahmedabad",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "380009",
+    "officename": "Navrangpura H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ahmedabad City",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Ahmadabad City",
+    "Districtname": "Ahmedabad",
+    "statename": "GUJARAT"
+  }
+]
