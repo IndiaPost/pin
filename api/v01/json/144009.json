@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "144009",
+    "officename": "Chogitti S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Jalandhar",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Jalandhar - I",
+    "Districtname": "Jalandhar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "144009",
+    "officename": "Regional Campus GNDU S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jalandhar",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Jalandhar",
+    "Districtname": "Jalandhar",
+    "statename": "PUNJAB"
+  }
+]
