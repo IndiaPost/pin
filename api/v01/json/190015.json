@@ -1,0 +1,62 @@
+[
+  {
+    "pincode": "190015",
+    "officename": "A K Pora B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "A K Pora",
+    "Districtname": "Srinagar",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "190015",
+    "officename": "Kenihama B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Kanihama",
+    "Districtname": "Budgam",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "190015",
+    "officename": "Natipora S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Natipora",
+    "Districtname": "Budgam",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "190015",
+    "officename": "Nowgam B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Nowgam",
+    "Districtname": "Budgam",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "190015",
+    "officename": "Nowgam S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "",
+    "Districtname": "Budgam",
+    "statename": "JAMMU & KASHMIR"
+  }
+]
