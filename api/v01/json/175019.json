@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "175019",
+    "officename": "Kanaid B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mandi",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Sunder Nagar",
+    "Districtname": "Mandi",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "175019",
+    "officename": "Purana Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mandi",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Sundarnagar(T)",
+    "Districtname": "Mandi",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "175019",
+    "officename": "Sunder Nagar Town Ship H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mandi",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Sundarnagar(T)",
+    "Districtname": "Mandi",
+    "statename": "HIMACHAL PRADESH"
+  }
+]
