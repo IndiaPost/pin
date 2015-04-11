@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "250003",
+    "officename": "Meerut Kutchery S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Meerut",
+    "regionname": "Bareilly",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Meerut",
+    "Districtname": "Meerut",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "250003",
+    "officename": "Saket S.O (Meerut)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Meerut",
+    "regionname": "Bareilly",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Meerut",
+    "Districtname": "Meerut",
+    "statename": "UTTAR PRADESH"
+  }
+]
