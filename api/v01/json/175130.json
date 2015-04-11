@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "175130",
+    "officename": "Naggar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mandi",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Naggar",
+    "Districtname": "Kullu",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "175130",
+    "officename": "Raman B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mandi",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Kullu(T)",
+    "Districtname": "Kullu",
+    "statename": "HIMACHAL PRADESH"
+  }
+]
