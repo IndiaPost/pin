@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "249137",
+    "officename": "Dhalwala S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Tehri",
+    "regionname": "Dehradun",
+    "circlename": "Uttarakhand",
+    "Taluk": "Narendernagar",
+    "Districtname": "Tehri Garhwal",
+    "statename": "UTTARAKHAND"
+  },
+  {
+    "pincode": "249137",
+    "officename": "Munikireti S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Tehri",
+    "regionname": "Dehradun",
+    "circlename": "Uttarakhand",
+    "Taluk": "Narendranagar",
+    "Districtname": "Tehri Garhwal",
+    "statename": "UTTARAKHAND"
+  }
+]
