@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "160015",
+    "officename": "Sector 15 Chandigarh S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Chandigarh",
+    "Districtname": "Chandigarh",
+    "statename": "CHANDIGARH"
+  },
+  {
+    "pincode": "160015",
+    "officename": "Sector 16 (Chandigarh) S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Chandigarh",
+    "Districtname": "Chandigarh",
+    "statename": "CHANDIGARH"
+  }
+]
