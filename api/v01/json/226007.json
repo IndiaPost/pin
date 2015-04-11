@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "226007",
+    "officename": "Nadwa S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Lucknow",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Lucknow",
+    "Districtname": "Lucknow",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "226007",
+    "officename": "New Hyderabad S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Lucknow",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Lucknow",
+    "Districtname": "Lucknow",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "226007",
+    "officename": "R P Line S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Lucknow",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Lucknow",
+    "Districtname": "Lucknow",
+    "statename": "UTTAR PRADESH"
+  }
+]
