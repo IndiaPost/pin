@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "273012",
+    "officename": "GR Railway Station S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gorakhpur",
+    "regionname": "Gorakhpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Gorakhpur",
+    "Districtname": "Gorakhpur",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "273012",
+    "officename": "Loco  Workshop LSG S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gorakhpur",
+    "regionname": "Gorakhpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "",
+    "Districtname": "Gorakhpur",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "273012",
+    "officename": "Railway Colony S.O (Gorakhpur)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gorakhpur",
+    "regionname": "Gorakhpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Gorakhpur Sadar",
+    "Districtname": "Gorakhpur",
+    "statename": "UTTAR PRADESH"
+  }
+]
