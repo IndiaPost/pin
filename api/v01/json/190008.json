@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "190008",
+    "officename": "Jawahar Nagar S.O (Srinagar)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Jawahar Nagar",
+    "Districtname": "Srinagar",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "190008",
+    "officename": "Rajbagh S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "",
+    "Districtname": "Srinagar",
+    "statename": "JAMMU & KASHMIR"
+  }
+]
