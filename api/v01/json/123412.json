@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "123412",
+    "officename": "Badhrana B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Rewari",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "123412",
+    "officename": "Dharan S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Dharan",
+    "Districtname": "Mahendragarh",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "123412",
+    "officename": "Rajgarh B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Rajgarh",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "123412",
+    "officename": "Tankri B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gurgaon",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Tankri",
+    "Districtname": "Rewari",
+    "statename": "HARYANA"
+  }
+]
