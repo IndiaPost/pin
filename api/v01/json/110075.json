@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "110075",
+    "officename": "Amberhai B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "New Delhi West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "South West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110075",
+    "officename": "District Court Complex Dwarka S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "Delhi",
+    "Districtname": "South West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110075",
+    "officename": "Dwarka Sec-6 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "New Delhi West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "South West Delhi",
+    "statename": "DELHI"
+  }
+]
