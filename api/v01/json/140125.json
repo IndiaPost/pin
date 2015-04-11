@@ -1,0 +1,62 @@
+[
+  {
+    "pincode": "140125",
+    "officename": "Ajauli B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Ropar",
+    "Districtname": "Chandigarh",
+    "statename": "CHANDIGARH"
+  },
+  {
+    "pincode": "140125",
+    "officename": "Bandelhari B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Ropar",
+    "Districtname": "Ropar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140125",
+    "officename": "Behrampur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Ropar",
+    "Districtname": "Ropar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140125",
+    "officename": "Manakpur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Anandpur Sahib",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140125",
+    "officename": "Pratap Nagar Nangal S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Anandpur Sahib",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  }
+]
