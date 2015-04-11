@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "110084",
+    "officename": "Burari S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Delhi North",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "Delhi",
+    "Districtname": "North Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110084",
+    "officename": "Jagatpur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Delhi North",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "Delhi",
+    "Districtname": "North Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110084",
+    "officename": "Jharoda Majraa B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Delhi North",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "Delhi",
+    "Districtname": "North Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110084",
+    "officename": "Wazirabad Village S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Delhi North",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "North",
+    "Districtname": "North Delhi",
+    "statename": "DELHI"
+  }
+]
