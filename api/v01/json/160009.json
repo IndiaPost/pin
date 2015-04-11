@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "160009",
+    "officename": "Sector 8(Chandgarh) S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Chandigarh",
+    "Districtname": "Chandigarh",
+    "statename": "CHANDIGARH"
+  },
+  {
+    "pincode": "160009",
+    "officename": "Sector 9 (Chandigarh) S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Chandigarh",
+    "Districtname": "Chandigarh",
+    "statename": "CHANDIGARH"
+  }
+]
