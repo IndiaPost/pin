@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "324006",
+    "officename": "Kaithuni Pole Kota S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Kota",
+    "regionname": "Ajmer",
+    "circlename": "Rajasthan",
+    "Taluk": "Kota",
+    "Districtname": "Kota",
+    "statename": "RAJASTHAN"
+  },
+  {
+    "pincode": "324006",
+    "officename": "Kota City S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Kota",
+    "regionname": "Ajmer",
+    "circlename": "Rajasthan",
+    "Taluk": "Kota",
+    "Districtname": "Kota",
+    "statename": "RAJASTHAN"
+  },
+  {
+    "pincode": "324006",
+    "officename": "Subzi Mandi Kota S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Kota",
+    "regionname": "Ajmer",
+    "circlename": "Rajasthan",
+    "Taluk": "Kota",
+    "Districtname": "Kota",
+    "statename": "RAJASTHAN"
+  }
+]
