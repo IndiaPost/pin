@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "110087",
+    "officename": "Jwala Puri S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110087",
+    "officename": "Sunder Vihar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "New Delhi West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "West Delhi",
+    "statename": "DELHI"
+  }
+]
