@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "151002",
+    "officename": "Deon B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Bhatinda",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Bti",
+    "Districtname": "Bathinda",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "151002",
+    "officename": "Gndtp Bathinda S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Bhatinda",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Bathinda",
+    "Districtname": "Bathinda",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "151002",
+    "officename": "Sevian B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Bhatinda",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Bti",
+    "Districtname": "Bathinda",
+    "statename": "PUNJAB"
+  }
+]
