@@ -1,0 +1,86 @@
+[
+  {
+    "pincode": "140001",
+    "officename": "Jhallian Khurd B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Rupnagar",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140001",
+    "officename": "Kotla Nihang B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Ropar Ho",
+    "Districtname": "Ropar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140001",
+    "officename": "Malikpur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Rupnagar",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140001",
+    "officename": "Minisectt Ropar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Rupnagar",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140001",
+    "officename": "Phool Khurd B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140001",
+    "officename": "Ropar H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Rupnagar",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140001",
+    "officename": "Thermal Plant Colony Ropar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Rupnagar",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  }
+]
