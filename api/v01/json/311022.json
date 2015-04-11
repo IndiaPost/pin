@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "311022",
+    "officename": "Agucha B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Bhilwara",
+    "regionname": "Ajmer",
+    "circlename": "Rajasthan",
+    "Taluk": "Bhilwara",
+    "Districtname": "Bhilwara",
+    "statename": "RAJASTHAN"
+  },
+  {
+    "pincode": "311022",
+    "officename": "Bhunas B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Bhilwara",
+    "regionname": "Ajmer",
+    "circlename": "Rajasthan",
+    "Taluk": "Bhilwara",
+    "Districtname": "Bhilwara",
+    "statename": "RAJASTHAN"
+  },
+  {
+    "pincode": "311022",
+    "officename": "Hurda S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Bhilwara",
+    "regionname": "Ajmer",
+    "circlename": "Rajasthan",
+    "Taluk": "Bhilwara",
+    "Districtname": "Bhilwara",
+    "statename": "RAJASTHAN"
+  }
+]
