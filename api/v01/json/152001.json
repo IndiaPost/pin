@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "152001",
+    "officename": "Cantt Railway Station Ferozepu S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ferozpur",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Firozepur",
+    "Districtname": "Firozpur",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "152001",
+    "officename": "Ferozepur H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ferozpur",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Ferozepur",
+    "Districtname": "Firozpur",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "152001",
+    "officename": "Sadar Bazar S.O (Firozpur)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ferozpur",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Firozepur",
+    "Districtname": "Firozpur",
+    "statename": "PUNJAB"
+  }
+]
