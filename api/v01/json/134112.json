@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "134112",
+    "officename": "Panchkula Sector 12 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ambala",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Panchkula",
+    "Districtname": "Panchkula",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "134112",
+    "officename": "Panchkula Sector 4 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ambala",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Panchkula",
+    "Districtname": "Panchkula",
+    "statename": "HARYANA"
+  }
+]
