@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "180012",
+    "officename": "New Fruit Market S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Jammu",
+    "Districtname": "Jammu",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "180012",
+    "officename": "Railway Station S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Jammu",
+    "Districtname": "Jammu",
+    "statename": "JAMMU & KASHMIR"
+  }
+]
