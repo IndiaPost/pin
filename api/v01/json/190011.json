@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "190011",
+    "officename": "Anchar B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "",
+    "Districtname": "Srinagar",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "190011",
+    "officename": "Lal Bazaar B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "",
+    "Districtname": "Srinagar",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "190011",
+    "officename": "Noushara S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Noushera",
+    "Districtname": "Srinagar",
+    "statename": "JAMMU & KASHMIR"
+  }
+]
