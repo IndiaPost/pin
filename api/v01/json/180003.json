@@ -1,0 +1,74 @@
+[
+  {
+    "pincode": "180003",
+    "officename": "Industrial Estate S.O (Jammu)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Jammu",
+    "Districtname": "Jammu",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "180003",
+    "officename": "Jammu Cantt S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Jammu",
+    "Districtname": "Jammu",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "180003",
+    "officename": "Makwal B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Jammu",
+    "Districtname": "Jammu",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "180003",
+    "officename": "Mandal B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Jammu",
+    "Districtname": "Jammu",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "180003",
+    "officename": "NATC S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Jammu",
+    "Districtname": "Jammu",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "180003",
+    "officename": "Sohanjana B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Jammu",
+    "Districtname": "Jammu",
+    "statename": "JAMMU & KASHMIR"
+  }
+]
