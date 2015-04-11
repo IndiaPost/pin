@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "201008",
+    "officename": "Bisara B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Bisara",
+    "Districtname": "Gautam Buddha Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "201008",
+    "officename": "Piyaoli B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Piyaoli",
+    "Districtname": "Gautam Buddha Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "201008",
+    "officename": "Salarpur Kalan B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Salarpur Kalan",
+    "Districtname": "Gautam Buddha Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "201008",
+    "officename": "Vidyut Nagar S.O (Gautam Buddha Nagar)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Noida",
+    "Districtname": "Gautam Buddha Nagar",
+    "statename": "UTTAR PRADESH"
+  }
+]
