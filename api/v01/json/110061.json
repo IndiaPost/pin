@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "110061",
+    "officename": "Bijwasan S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "New Delhi South West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "",
+    "Districtname": "South West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110061",
+    "officename": "Shahbad Mohammadpur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi South West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "",
+    "Districtname": "South West Delhi",
+    "statename": "DELHI"
+  }
+]
