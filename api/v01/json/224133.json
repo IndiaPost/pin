@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "224133",
+    "officename": "Dabha Samer S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Faizabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Allapur",
+    "Districtname": "Ambedkar Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "224133",
+    "officename": "Jyoti Sadan B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Faizabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Allapur **",
+    "Districtname": "Ambedkar Nagar",
+    "statename": "UTTAR PRADESH"
+  }
+]
