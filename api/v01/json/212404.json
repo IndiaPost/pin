@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "212404",
+    "officename": "Babuganj B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Allahabad",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Phulpur",
+    "Districtname": "Allahabad",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "212404",
+    "officename": "Bagai Khurd B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Allahabad",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Ghiyanagar",
+    "Districtname": "Allahabad",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "212404",
+    "officename": "Ghiya Ngr S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Allahabad",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Handia",
+    "Districtname": "Allahabad",
+    "statename": "UTTAR PRADESH"
+  }
+]
