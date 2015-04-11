@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "221004",
+    "officename": "D.L.W. S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Varanasi West",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Varanasi",
+    "Districtname": "Varanasi",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "221004",
+    "officename": "West Colony S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Varanasi West",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Varanasi",
+    "Districtname": "Varanasi",
+    "statename": "UTTAR PRADESH"
+  }
+]
