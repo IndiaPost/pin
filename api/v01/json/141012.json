@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "141012",
+    "officename": "Aggar Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ludhiana City",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Ludhiana",
+    "Districtname": "Ludhiana",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "141012",
+    "officename": "Rajguru Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ludhiana City",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Ludhiana",
+    "Districtname": "Ludhiana",
+    "statename": "PUNJAB"
+  }
+]
