@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "110026",
+    "officename": "Ashoka Park Extn. S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110026",
+    "officename": "Punjabi Bagh S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "New Delhi West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "",
+    "Districtname": "West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110026",
+    "officename": "Punjabi Bagh Sec - III S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110026",
+    "officename": "Shivaji Park S.O (West Delhi)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "West Delhi",
+    "statename": "DELHI"
+  }
+]
