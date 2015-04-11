@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "211010",
+    "officename": "I T I, Naini S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Allahabad",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Karchhana",
+    "Districtname": "Allahabad",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "211010",
+    "officename": "T S L S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Allahabad",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Allahabad",
+    "Districtname": "Allahabad",
+    "statename": "UTTAR PRADESH"
+  }
+]
