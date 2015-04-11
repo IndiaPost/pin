@@ -1,0 +1,62 @@
+[
+  {
+    "pincode": "190003",
+    "officename": "Abi Karlpora B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Abi Karlpora",
+    "Districtname": "Srinagar",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "190003",
+    "officename": "Kathi Darwaza B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Kathi Darwaza",
+    "Districtname": "Srinagar",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "190003",
+    "officename": "Khanyar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Srinagar",
+    "Districtname": "Srinagar",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "190003",
+    "officename": "Nandpora B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Nandpora",
+    "Districtname": "Srinagar",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "190003",
+    "officename": "Rainawari S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Rainawari",
+    "Districtname": "Srinagar",
+    "statename": "JAMMU & KASHMIR"
+  }
+]
