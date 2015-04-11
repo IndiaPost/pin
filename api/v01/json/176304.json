@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "176304",
+    "officename": "Dalhousie Court Road S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Chamba",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Dalhousie(T)",
+    "Districtname": "Chamba",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "176304",
+    "officename": "Dalhousie S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chamba",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Bhatiyat",
+    "Districtname": "Chamba",
+    "statename": "HIMACHAL PRADESH"
+  }
+]
