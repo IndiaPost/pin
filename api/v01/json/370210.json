@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "370210",
+    "officename": "Kandla Harbour S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Kutch",
+    "regionname": "Rajkot",
+    "circlename": "Gujarat",
+    "Taluk": "Gandhidham",
+    "Districtname": "Kachchh",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "370210",
+    "officename": "Kandla Port S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Kutch",
+    "regionname": "Rajkot",
+    "circlename": "Gujarat",
+    "Taluk": "Gandhidham",
+    "Districtname": "Kachchh",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "370210",
+    "officename": "United Salt Work B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Kutch",
+    "regionname": "Rajkot",
+    "circlename": "Gujarat",
+    "Taluk": "Gandhidham",
+    "Districtname": "Kachchh",
+    "statename": "GUJARAT"
+  }
+]
