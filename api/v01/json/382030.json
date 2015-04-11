@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "382030",
+    "officename": "(Gandhinagar) Sector 29 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gandhinagar",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Gandhinagar",
+    "Districtname": "Gandhi Nagar",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "382030",
+    "officename": "(Gandhinagar) Sector 30 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gandhinagar",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Gandhinagar",
+    "Districtname": "Gandhi Nagar",
+    "statename": "GUJARAT"
+  }
+]
