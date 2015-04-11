@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "380028",
+    "officename": "Bhairavnath Road S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ahmedabad City",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Ahmadabad City",
+    "Districtname": "Ahmedabad",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "380028",
+    "officename": "Shah Alam Roza S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ahmedabad City",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Ahmadabad City",
+    "Districtname": "Ahmedabad",
+    "statename": "GUJARAT"
+  }
+]
