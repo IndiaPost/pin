@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "382016",
+    "officename": "(Gandhinagar) Sector 16 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gandhinagar",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Gandhinagar",
+    "Districtname": "Gandhi Nagar",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "382016",
+    "officename": "(Gandhinagar) Sector 17 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gandhinagar",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Gandhinagar",
+    "Districtname": "Gandhi Nagar",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "382016",
+    "officename": "Vavol B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gandhinagar",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Gandhinagar",
+    "Districtname": "Gandhi Nagar",
+    "statename": "GUJARAT"
+  }
+]
