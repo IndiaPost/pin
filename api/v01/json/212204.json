@@ -1,0 +1,62 @@
+[
+  {
+    "pincode": "212204",
+    "officename": "Daranagar S.O (Allahabad)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Allahabad",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Allahabad",
+    "Districtname": "Allahabad",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "212204",
+    "officename": "Jahangirabad B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Allahabad",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Sirathu",
+    "Districtname": "Kaushambi",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "212204",
+    "officename": "Nawawan B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Allahabad",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Sirathu",
+    "Districtname": "Kaushambi",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "212204",
+    "officename": "Sawrai Buzurg B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Allahabad",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Phulpur",
+    "Districtname": "Allahabad",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "212204",
+    "officename": "Shahjadpur ED B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Allahabad",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Sirathu",
+    "Districtname": "Kaushambi",
+    "statename": "UTTAR PRADESH"
+  }
+]
