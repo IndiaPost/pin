@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "110020",
+    "officename": "C R R I S.O (South Delhi)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi South",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "South Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110020",
+    "officename": "F F C Okhla S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi South",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "New Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110020",
+    "officename": "Okhla Industrial Area Phase-i S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi South",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "South Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110020",
+    "officename": "Okhla Industrial Estate S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "New Delhi South",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "South Delhi",
+    "statename": "DELHI"
+  }
+]
