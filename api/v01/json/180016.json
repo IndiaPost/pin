@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "180016",
+    "officename": "General Bus Stand S.O (Jammu)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Jammu",
+    "Districtname": "Jammu",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "180016",
+    "officename": "Krishna Nagar S.O (Jammu)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Jammu",
+    "Districtname": "Jammu",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "180016",
+    "officename": "University Campus S.O (Jammu)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Jammu",
+    "Districtname": "Jammu",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "180016",
+    "officename": "Vinaik Bazar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Jammu",
+    "Districtname": "Jammu",
+    "statename": "JAMMU & KASHMIR"
+  }
+]
