@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "224202",
+    "officename": "Bharatkund S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Faizabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Allapur",
+    "Districtname": "Ambedkar Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "224202",
+    "officename": "Kailkeshopur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Faizabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Tanda",
+    "Districtname": "Ambedkar Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "224202",
+    "officename": "Naipura B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Faizabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Bikapur",
+    "Districtname": "Faizabad",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "224202",
+    "officename": "Raithua B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Faizabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Allapur **",
+    "Districtname": "Ambedkar Nagar",
+    "statename": "UTTAR PRADESH"
+  }
+]
