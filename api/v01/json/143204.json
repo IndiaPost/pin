@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "143204",
+    "officename": "Bal Sarai B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Amritsar",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "",
+    "Districtname": "Amritsar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "143204",
+    "officename": "D.B.J.Singh S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Amritsar",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Amritsar",
+    "Districtname": "Amritsar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "143204",
+    "officename": "Jodhe B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Amritsar",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "D.b.j.singh.",
+    "Districtname": "Amritsar",
+    "statename": "PUNJAB"
+  }
+]
