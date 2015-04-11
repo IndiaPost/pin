@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "226024",
+    "officename": "Aliganj Extension S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Lucknow",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Lucknow",
+    "Districtname": "Lucknow",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "226024",
+    "officename": "Aliganj S.O (Lucknow)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Lucknow",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Lucknow",
+    "Districtname": "Lucknow",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "226024",
+    "officename": "Chandganj S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Lucknow",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Lucknow",
+    "Districtname": "Lucknow",
+    "statename": "UTTAR PRADESH"
+  }
+]
