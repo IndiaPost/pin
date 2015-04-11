@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "125101",
+    "officename": "Asa Khera B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Hissar",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "",
+    "Districtname": "Sirsa",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "125101",
+    "officename": "Chautala S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Hissar",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Sirsa",
+    "Districtname": "Sirsa",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "125101",
+    "officename": "Janowala Bishnolan B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Hissar",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "",
+    "Districtname": "Sirsa",
+    "statename": "HARYANA"
+  }
+]
