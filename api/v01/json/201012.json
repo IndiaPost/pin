@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "201012",
+    "officename": "Kaushambi S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Ghaziabad",
+    "Districtname": "Ghaziabad",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "201012",
+    "officename": "Vasundhra S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Ghaziabad",
+    "Districtname": "Ghaziabad",
+    "statename": "UTTAR PRADESH"
+  }
+]
