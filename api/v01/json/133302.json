@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "133302",
+    "officename": "Kalka R.S. S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ambala",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Kalka",
+    "Districtname": "Panchkula",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "133302",
+    "officename": "Kalka S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ambala",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Kalka",
+    "Districtname": "Panchkula",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "133302",
+    "officename": "Kharanwali B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ambala",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Kalka",
+    "Districtname": "Panchkula",
+    "statename": "HARYANA"
+  }
+]
