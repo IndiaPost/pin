@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "231222",
+    "officename": "Khadia Project S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mirzapur",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Sonbhadra",
+    "Districtname": "Sonbhadra",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "231222",
+    "officename": "Shaktinagar S.O (Sonbhadra)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mirzapur",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Sonbhadra",
+    "Districtname": "Sonbhadra",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "231222",
+    "officename": "Shaktinagar Thermal Power Stat S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mirzapur",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Sonbhadra",
+    "Districtname": "Sonbhadra",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "231222",
+    "officename": "Yogichaura B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mirzapur",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Dudhi",
+    "Districtname": "Sonbhadra",
+    "statename": "UTTAR PRADESH"
+  }
+]
