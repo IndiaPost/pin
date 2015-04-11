@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "140401",
+    "officename": "IA Rajpura S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Patiala",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Rajpura",
+    "Districtname": "Patiala",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140401",
+    "officename": "IFP Rajpura S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Patiala",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Rajpura",
+    "Districtname": "Patiala",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140401",
+    "officename": "KSM Rajpura S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Patiala",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Rajpura",
+    "Districtname": "Patiala",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140401",
+    "officename": "Rajpura H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Patiala",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Rajpura",
+    "Districtname": "Patiala",
+    "statename": "PUNJAB"
+  }
+]
