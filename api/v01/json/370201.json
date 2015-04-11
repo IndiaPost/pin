@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "370201",
+    "officename": "Gandhidham S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Kutch",
+    "regionname": "Rajkot",
+    "circlename": "Gujarat",
+    "Taluk": "Gandhidham",
+    "Districtname": "Kachchh",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "370201",
+    "officename": "Ganeshnagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Kutch",
+    "regionname": "Rajkot",
+    "circlename": "Gujarat",
+    "Taluk": "Gandhidham",
+    "Districtname": "Kachchh",
+    "statename": "GUJARAT"
+  }
+]
