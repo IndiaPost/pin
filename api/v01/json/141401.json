@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "141401",
+    "officename": "Amloh Road(Khanna) S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ludhiana Moffusil",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Khanna",
+    "Districtname": "Ludhiana",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "141401",
+    "officename": "Khanna H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ludhiana Moffusil",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Khanna",
+    "Districtname": "Ludhiana",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "141401",
+    "officename": "Nai Mandi Khanna S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ludhiana Moffusil",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Khanna",
+    "Districtname": "Ludhiana",
+    "statename": "PUNJAB"
+  }
+]
