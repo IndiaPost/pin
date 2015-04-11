@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "302003",
+    "officename": "Haldiyon Ka Rasta S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jaipur City",
+    "regionname": "Jaipur HQ",
+    "circlename": "Rajasthan",
+    "Taluk": "Jaipur",
+    "Districtname": "Jaipur",
+    "statename": "RAJASTHAN"
+  },
+  {
+    "pincode": "302003",
+    "officename": "Jaipur City S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Jaipur City",
+    "regionname": "Jaipur HQ",
+    "circlename": "Rajasthan",
+    "Taluk": "Jaipur",
+    "Districtname": "Jaipur",
+    "statename": "RAJASTHAN"
+  },
+  {
+    "pincode": "302003",
+    "officename": "Krishi Upaj Mandi S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jaipur City",
+    "regionname": "Jaipur HQ",
+    "circlename": "Rajasthan",
+    "Taluk": "Jaipur",
+    "Districtname": "Jaipur",
+    "statename": "RAJASTHAN"
+  },
+  {
+    "pincode": "302003",
+    "officename": "Ramganj Bazar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jaipur City",
+    "regionname": "Jaipur HQ",
+    "circlename": "Rajasthan",
+    "Taluk": "Jaipur",
+    "Districtname": "Jaipur",
+    "statename": "RAJASTHAN"
+  }
+]
