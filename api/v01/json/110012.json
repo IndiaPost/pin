@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "110012",
+    "officename": "I.A.R.I. S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "New Delhi Central",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "Central Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110012",
+    "officename": "Inderpuri S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi Central",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "Central Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110012",
+    "officename": "National Physical Laboratory S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi Central",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "New Delhi",
+    "Districtname": "Central Delhi",
+    "statename": "DELHI"
+  }
+]
