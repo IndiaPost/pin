@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "177005",
+    "officename": "Govt Degree College Hamirpur S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Hamirpur",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Hamirpur(T)",
+    "Districtname": "Hamirpur(HP)",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "177005",
+    "officename": "NIT Hamirpur S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Hamirpur",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Hamirpur(T)",
+    "Districtname": "Hamirpur(HP)",
+    "statename": "HIMACHAL PRADESH"
+  }
+]
