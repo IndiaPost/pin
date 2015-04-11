@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "192126",
+    "officename": "Laripora B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "",
+    "Districtname": "Ananthnag",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "192126",
+    "officename": "Panchtarni(Sessional) B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "",
+    "Districtname": "Ananthnag",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "192126",
+    "officename": "Phalgam S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Pahalgam",
+    "Districtname": "Ananthnag",
+    "statename": "JAMMU & KASHMIR"
+  }
+]
