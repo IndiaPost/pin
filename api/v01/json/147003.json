@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "147003",
+    "officename": "D C W S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Patiala",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Patiala",
+    "Districtname": "Patiala",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "147003",
+    "officename": "Gurbax Colony S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Patiala",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Patiala",
+    "Districtname": "Patiala",
+    "statename": "PUNJAB"
+  }
+]
