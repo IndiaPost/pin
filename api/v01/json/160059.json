@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "160059",
+    "officename": "Chandigarh Sector 59 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "S.A.S.Nagar (Mohali)",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "160059",
+    "officename": "Chandigarh Sector 60 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "S.A.S.Nagar (Mohali)",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  }
+]
