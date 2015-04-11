@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "145029",
+    "officename": "Kot B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gurdaspur",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Dhar Kalan",
+    "Districtname": "Gurdaspur",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "145029",
+    "officename": "Shahpur Kandi B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gurdaspur",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Pathankot",
+    "Districtname": "Gurdaspur",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "145029",
+    "officename": "Shahpur Kandi Township S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gurdaspur",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Pathankot",
+    "Districtname": "Pathankot",
+    "statename": "PUNJAB"
+  }
+]
