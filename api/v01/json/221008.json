@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "221008",
+    "officename": "Kateshar B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Varanasi East",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Varanasi",
+    "Districtname": "Varanasi",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "221008",
+    "officename": "Kusth Ashram B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Varanasi East",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Varanasi",
+    "Districtname": "Varanasi",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "221008",
+    "officename": "Ram Nagar Pac S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Varanasi East",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Varanasi",
+    "Districtname": "Varanasi",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "221008",
+    "officename": "Ramnagar S.O (Varanasi)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Varanasi East",
+    "regionname": "Allahabad",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Varanasi",
+    "Districtname": "Varanasi",
+    "statename": "UTTAR PRADESH"
+  }
+]
