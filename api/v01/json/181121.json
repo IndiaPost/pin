@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "181121",
+    "officename": "A.G.Office B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "",
+    "Districtname": "Jammu",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "181121",
+    "officename": "Paloura S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Jammu",
+    "Districtname": "Jammu",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "181121",
+    "officename": "Topsherkhania B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Jammu",
+    "Districtname": "Jammu",
+    "statename": "JAMMU & KASHMIR"
+  }
+]
