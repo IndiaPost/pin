@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "176325",
+    "officename": "Baggi Kanged B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Chamba",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Bhallai",
+    "Districtname": "Chamba",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "176325",
+    "officename": "Bhunad B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chamba",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Bhallai",
+    "Districtname": "Chamba",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "176325",
+    "officename": "Samleu S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chamba",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Dal Housia",
+    "Districtname": "Chamba",
+    "statename": "HIMACHAL PRADESH"
+  }
+]
