@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "305002",
+    "officename": "Adarsh Nagar (Ajmer) S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ajmer",
+    "regionname": "Ajmer",
+    "circlename": "Rajasthan",
+    "Taluk": "Ajmer",
+    "Districtname": "Ajmer",
+    "statename": "RAJASTHAN"
+  },
+  {
+    "pincode": "305002",
+    "officename": "Ie Makhu Pura Ajmer S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ajmer",
+    "regionname": "Ajmer",
+    "circlename": "Rajasthan",
+    "Taluk": "Ajmer",
+    "Districtname": "Ajmer",
+    "statename": "RAJASTHAN"
+  },
+  {
+    "pincode": "305002",
+    "officename": "Makhupura B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ajmer",
+    "regionname": "Ajmer",
+    "circlename": "Rajasthan",
+    "Taluk": "Ajmer",
+    "Districtname": "Ajmer",
+    "statename": "RAJASTHAN"
+  }
+]
