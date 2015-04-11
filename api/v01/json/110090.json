@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "110090",
+    "officename": "Karawal Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Delhi East",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "",
+    "Districtname": "East Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110090",
+    "officename": "Shaheed Bhagat Singh Colony S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Delhi East",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "",
+    "Districtname": "North East Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110090",
+    "officename": "Shriram Colony Rajeev Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Delhi East",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "",
+    "Districtname": "North East Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110090",
+    "officename": "Sonia Vihar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Delhi East",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "",
+    "Districtname": "East Delhi",
+    "statename": "DELHI"
+  }
+]
