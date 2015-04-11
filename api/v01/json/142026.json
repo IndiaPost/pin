@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "142026",
+    "officename": "Jagraon City S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ludhiana Moffusil",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Jagraon",
+    "Districtname": "Ludhiana",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "142026",
+    "officename": "Jagraon H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ludhiana Moffusil",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Jagraon",
+    "Districtname": "Ludhiana",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "142026",
+    "officename": "Jagraon Tehsil S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ludhiana Moffusil",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Jagraon",
+    "Districtname": "Ludhiana",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "142026",
+    "officename": "R.R. Jagraon S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ludhiana Moffusil",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Jagraon",
+    "Districtname": "Ludhiana",
+    "statename": "PUNJAB"
+  }
+]
