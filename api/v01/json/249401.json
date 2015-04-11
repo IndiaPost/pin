@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "249401",
+    "officename": "Bhimgoda S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Dehradun",
+    "regionname": "Dehradun",
+    "circlename": "Uttarakhand",
+    "Taluk": "Hardwar",
+    "Districtname": "Haridwar",
+    "statename": "UTTARAKHAND"
+  },
+  {
+    "pincode": "249401",
+    "officename": "Haridwar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Dehradun",
+    "regionname": "Dehradun",
+    "circlename": "Uttarakhand",
+    "Taluk": "Haridwar",
+    "Districtname": "Haridwar",
+    "statename": "UTTARAKHAND"
+  },
+  {
+    "pincode": "249401",
+    "officename": "Mayapur S.O (Haridwar)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Dehradun",
+    "regionname": "Dehradun",
+    "circlename": "Uttarakhand",
+    "Taluk": "Hardwar",
+    "Districtname": "Haridwar",
+    "statename": "UTTARAKHAND"
+  }
+]
