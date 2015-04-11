@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "226017",
+    "officename": "Alamnagar B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Lucknow",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Lucknow",
+    "Districtname": "Lucknow",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "226017",
+    "officename": "Avas Vikas Colony S.O (Lucknow)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Lucknow",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Lucknow",
+    "Districtname": "Lucknow",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "226017",
+    "officename": "R G C Mill S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Lucknow",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Lucknow",
+    "Districtname": "Lucknow",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "226017",
+    "officename": "Rajajipuram S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Lucknow",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Lucknow",
+    "Districtname": "Lucknow",
+    "statename": "UTTAR PRADESH"
+  }
+]
