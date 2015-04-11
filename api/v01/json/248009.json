@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "248009",
+    "officename": "Bhagwantpur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Dehradun",
+    "regionname": "Dehradun",
+    "circlename": "Uttarakhand",
+    "Taluk": "Dehradun",
+    "Districtname": "Dehradun",
+    "statename": "UTTARAKHAND"
+  },
+  {
+    "pincode": "248009",
+    "officename": "Kishanpur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Dehradun",
+    "regionname": "Dehradun",
+    "circlename": "Uttarakhand",
+    "Taluk": "Dehradun",
+    "Districtname": "Dehradun",
+    "statename": "UTTARAKHAND"
+  },
+  {
+    "pincode": "248009",
+    "officename": "Rajpur S.O (Dehradun)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Dehradun",
+    "regionname": "Dehradun",
+    "circlename": "Uttarakhand",
+    "Taluk": "Dehradun",
+    "Districtname": "Dehradun",
+    "statename": "UTTARAKHAND"
+  }
+]
