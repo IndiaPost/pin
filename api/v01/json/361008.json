@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "361008",
+    "officename": "Medical Campus S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jamnagar",
+    "regionname": "Rajkot",
+    "circlename": "Gujarat",
+    "Taluk": "Jamnagar",
+    "Districtname": "Jamnagar",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "361008",
+    "officename": "Navagam Ghed B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Jamnagar",
+    "regionname": "Rajkot",
+    "circlename": "Gujarat",
+    "Taluk": "Jamnagar",
+    "Districtname": "Jamnagar",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "361008",
+    "officename": "Patel Colony S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Jamnagar",
+    "regionname": "Rajkot",
+    "circlename": "Gujarat",
+    "Taluk": "Jamnagar",
+    "Districtname": "Jamnagar",
+    "statename": "GUJARAT"
+  }
+]
