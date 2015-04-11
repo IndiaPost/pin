@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "143002",
+    "officename": "Khalsa College S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Amritsar",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Amritsar -I",
+    "Districtname": "Amritsar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "143002",
+    "officename": "Khalsa College S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Amritsar",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Amritsar -I",
+    "Districtname": "Amritsar",
+    "statename": "PUNJAB"
+  }
+]
