@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "201309",
+    "officename": "Khora Gaon B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Dadri",
+    "Districtname": "Gautam Buddha Nagar",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "201309",
+    "officename": "Noida Sector 62 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ghaziabad",
+    "regionname": "Lucknow  HQ",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Noida",
+    "Districtname": "Gautam Buddha Nagar",
+    "statename": "UTTAR PRADESH"
+  }
+]
