@@ -1,0 +1,62 @@
+[
+  {
+    "pincode": "147301",
+    "officename": "Kumbh B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Patiala",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Fatehgarhsahib",
+    "Districtname": "Fatehgarh Sahib",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "147301",
+    "officename": "Mandigobindgarh It S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Patiala",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "S.A.S.Nagar (Mohali)",
+    "Districtname": "Fatehgarh Sahib",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "147301",
+    "officename": "Mandigobindgarh S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Patiala",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "S.A.S.Nagar (Mohali)",
+    "Districtname": "Fatehgarh Sahib",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "147301",
+    "officename": "Salana B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Patiala",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Amloh (P)",
+    "Districtname": "Fatehgarh Sahib",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "147301",
+    "officename": "Shahpur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Patiala",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Fatehgarhsahib",
+    "Districtname": "Fatehgarh Sahib",
+    "statename": "PUNJAB"
+  }
+]
