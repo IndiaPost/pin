@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "382024",
+    "officename": "(Gandhinagar) Sector 23 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Gandhinagar",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Gandhinagar",
+    "Districtname": "Gandhi Nagar",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "382024",
+    "officename": "(Gandhinagar) Sector 24 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Gandhinagar",
+    "regionname": "Ahmedabad HQ",
+    "circlename": "Gujarat",
+    "Taluk": "Gandhinagar",
+    "Districtname": "Gandhi Nagar",
+    "statename": "GUJARAT"
+  }
+]
