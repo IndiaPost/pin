@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "276001",
+    "officename": "Azamgarh City S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Azamgarh",
+    "regionname": "Gorakhpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Sadar",
+    "Districtname": "Azamgarh",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "276001",
+    "officename": "Azamgarh H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Azamgarh",
+    "regionname": "Gorakhpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Sadar",
+    "Districtname": "Azamgarh",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "276001",
+    "officename": "Azamgarh, R.S S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Azamgarh",
+    "regionname": "Gorakhpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Azamgarh",
+    "Districtname": "Azamgarh",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "276001",
+    "officename": "Basgit B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Azamgarh",
+    "regionname": "Gorakhpur",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Sadar",
+    "Districtname": "Azamgarh",
+    "statename": "UTTAR PRADESH"
+  }
+]
