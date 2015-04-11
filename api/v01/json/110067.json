@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "110067",
+    "officename": "J.N.U. S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "New Delhi South West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "",
+    "Districtname": "South West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110067",
+    "officename": "JNU New Campus S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi South West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "",
+    "Districtname": "South West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110067",
+    "officename": "Munirka S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Delhi South West",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "",
+    "Districtname": "South West Delhi",
+    "statename": "DELHI"
+  }
+]
