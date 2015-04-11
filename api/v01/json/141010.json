@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "141010",
+    "officename": "Focal Point S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ludhiana City",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Ludhiana",
+    "Districtname": "Ludhiana",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "141010",
+    "officename": "Jamalpur Awana S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ludhiana City",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Ludhiana",
+    "Districtname": "Ludhiana",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "141010",
+    "officename": "Moti Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ludhiana City",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Ludhiana",
+    "Districtname": "Ludhiana",
+    "statename": "PUNJAB"
+  }
+]
