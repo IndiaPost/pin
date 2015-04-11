@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "284128",
+    "officename": "Bundelkhand University S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jhansi",
+    "regionname": "Agra",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Jhansi",
+    "Districtname": "Jhansi",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "284128",
+    "officename": "Kochha Bhanwar B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Jhansi",
+    "regionname": "Agra",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Jhansi",
+    "Districtname": "Jhansi",
+    "statename": "UTTAR PRADESH"
+  },
+  {
+    "pincode": "284128",
+    "officename": "Mlb Medical College S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Jhansi",
+    "regionname": "Agra",
+    "circlename": "Uttar Pradesh",
+    "Taluk": "Jhansi",
+    "Districtname": "Jhansi",
+    "statename": "UTTAR PRADESH"
+  }
+]
