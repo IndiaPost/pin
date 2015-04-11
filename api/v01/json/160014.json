@@ -1,0 +1,62 @@
+[
+  {
+    "pincode": "160014",
+    "officename": "Behlolpur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "S.A.S.Nagar (Mohali)",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "160014",
+    "officename": "Dadu Majra Colony S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Chandigarh",
+    "Districtname": "Chandigarh",
+    "statename": "CHANDIGARH"
+  },
+  {
+    "pincode": "160014",
+    "officename": "Dhanas B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Chandigarh",
+    "Districtname": "Chandigarh",
+    "statename": "CHANDIGARH"
+  },
+  {
+    "pincode": "160014",
+    "officename": "Sector 14 (Chandigarh) S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Chandigarh",
+    "Districtname": "Chandigarh",
+    "statename": "CHANDIGARH"
+  },
+  {
+    "pincode": "160014",
+    "officename": "Tira B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Kharar",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  }
+]
