@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "140201",
+    "officename": "Bhankarpur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Dera Bassi",
+    "Districtname": "Patiala",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140201",
+    "officename": "Bhankharpur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Patiala",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Dera Bassi",
+    "Districtname": "Patiala",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140201",
+    "officename": "Mubarakpur S.O (Patiala)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Dera Bassi",
+    "Districtname": "Mohali",
+    "statename": "PUNJAB"
+  }
+]
