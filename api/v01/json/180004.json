@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "180004",
+    "officename": "Gandhinagar H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Jammu",
+    "Districtname": "Jammu",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "180004",
+    "officename": "Guru Nanak Nagar S.O (Jammu)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Jammu",
+    "Districtname": "Jammu",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "180004",
+    "officename": "Transport Yard S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jammu",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Jammu",
+    "Districtname": "Jammu",
+    "statename": "JAMMU & KASHMIR"
+  }
+]
