@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "171002",
+    "officename": "HP.Sectt. S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Shimla Urban(T)",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "171002",
+    "officename": "Khalini S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Shimla Urban(T)",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "171002",
+    "officename": "Shimla East S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Shimla Urban(T)",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  }
+]
