@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "144005",
+    "officename": "Jalandhar Cantt H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Jalandhar",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Jalandhar",
+    "Districtname": "Jalandhar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "144005",
+    "officename": "Millitary Hospital S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jalandhar",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Jalandhar -II",
+    "Districtname": "Jalandhar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "144005",
+    "officename": "Rama Mandi S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jalandhar",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Jalandhar -II",
+    "Districtname": "Jalandhar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "144005",
+    "officename": "Sadar Bazar Jalandhar Cantt S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jalandhar",
+    "regionname": "Chandigarh Region",
+    "circlename": "Punjab",
+    "Taluk": "Jalandhar -II",
+    "Districtname": "Jalandhar",
+    "statename": "PUNJAB"
+  }
+]
