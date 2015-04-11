@@ -1,0 +1,62 @@
+[
+  {
+    "pincode": "140306",
+    "officename": "Dharamgarh B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "S.A.S.Nagar (Mohali)",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140306",
+    "officename": "Dhurali B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140306",
+    "officename": "Manauli S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "S.A.S.Nagar (Mohali)",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140306",
+    "officename": "Mote Majra B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "S.A.S.Nagar (Mohali)",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  },
+  {
+    "pincode": "140306",
+    "officename": "Raipur Kalan B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandigarh",
+    "regionname": "Chandigarh HQ",
+    "circlename": "Punjab",
+    "Taluk": "Ropar",
+    "Districtname": "Rupnagar",
+    "statename": "PUNJAB"
+  }
+]
