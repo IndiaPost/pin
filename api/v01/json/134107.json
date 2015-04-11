@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "134107",
+    "officename": "Chandi Mandir Cantt S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Ambala",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Panchkula",
+    "Districtname": "Panchkula",
+    "statename": "HARYANA"
+  },
+  {
+    "pincode": "134107",
+    "officename": "Chandi Mandir S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Ambala",
+    "regionname": "Ambala  HQ",
+    "circlename": "Haryana",
+    "Taluk": "Panchkula",
+    "Districtname": "Panchkula",
+    "statename": "HARYANA"
+  }
+]
