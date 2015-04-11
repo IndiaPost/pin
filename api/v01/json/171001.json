@@ -1,0 +1,86 @@
+[
+  {
+    "pincode": "171001",
+    "officename": "Bharari B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Shimla Rural(T)",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "171001",
+    "officename": "Busstand S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Shimla Urban(T)",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "171001",
+    "officename": "CPRI S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Shimla Urban(T)",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "171001",
+    "officename": "Combermere S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Shimla Urban(T)",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "171001",
+    "officename": "IGMC S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Shimla Urban(T)",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "171001",
+    "officename": "Shimla G.P.O.",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Shimla Urban(T)",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  },
+  {
+    "pincode": "171001",
+    "officename": "Shimla High Court S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Shimla",
+    "regionname": "Shimla HQ",
+    "circlename": "Himachal Pradesh",
+    "Taluk": "Shimla Urban(T)",
+    "Districtname": "Shimla",
+    "statename": "HIMACHAL PRADESH"
+  }
+]
