@@ -1,0 +1,86 @@
+[
+  {
+    "pincode": "110086",
+    "officename": "Begumpur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Delhi North",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "Delhi",
+    "Districtname": "North West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110086",
+    "officename": "Budh Vihar B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Delhi North",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "Delhi",
+    "Districtname": "North West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110086",
+    "officename": "Pooth Kalan B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Delhi North",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "Delhi",
+    "Districtname": "North West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110086",
+    "officename": "Pooth Kalan Resettlement S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Delhi North",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "",
+    "Districtname": "North West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110086",
+    "officename": "Sultanpuri B Block S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Delhi North",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "Delhi",
+    "Districtname": "North West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110086",
+    "officename": "Sultanpuri C Block S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Delhi North",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "Delhi",
+    "Districtname": "North West Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110086",
+    "officename": "Sultanpuri F Block S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Delhi North",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "Delhi",
+    "Districtname": "North West Delhi",
+    "statename": "DELHI"
+  }
+]
