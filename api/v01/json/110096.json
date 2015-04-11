@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "110096",
+    "officename": "Ghazipur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Delhi East",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "",
+    "Districtname": "East Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110096",
+    "officename": "Mayur Vihar Ph-III S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Delhi East",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "",
+    "Districtname": "East Delhi",
+    "statename": "DELHI"
+  },
+  {
+    "pincode": "110096",
+    "officename": "Vasundhra Enclave S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Delhi East",
+    "regionname": "Delhi",
+    "circlename": "Delhi",
+    "Taluk": "",
+    "Districtname": "East Delhi",
+    "statename": "DELHI"
+  }
+]
