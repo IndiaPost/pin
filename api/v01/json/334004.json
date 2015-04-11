@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "334004",
+    "officename": "Bangalanagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Bikaner",
+    "regionname": "Jodhpur",
+    "circlename": "Rajasthan",
+    "Taluk": "Bikaner",
+    "Districtname": "Bikaner",
+    "statename": "RAJASTHAN"
+  },
+  {
+    "pincode": "334004",
+    "officename": "Railway Workshop S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Bikaner",
+    "regionname": "Jodhpur",
+    "circlename": "Rajasthan",
+    "Taluk": "Bikaner",
+    "Districtname": "Bikaner",
+    "statename": "RAJASTHAN"
+  },
+  {
+    "pincode": "334004",
+    "officename": "Rcp Colony S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Bikaner",
+    "regionname": "Jodhpur",
+    "circlename": "Rajasthan",
+    "Taluk": "Bikaner",
+    "Districtname": "Bikaner",
+    "statename": "RAJASTHAN"
+  }
+]
