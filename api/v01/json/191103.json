@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "191103",
+    "officename": "Khrew S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Khrew",
+    "Districtname": "Srinagar",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "191103",
+    "officename": "Ludhoo B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Pampore",
+    "Districtname": "Ananthnag",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "191103",
+    "officename": "Mandakpal B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Pampore",
+    "Districtname": "Ananthnag",
+    "statename": "JAMMU & KASHMIR"
+  },
+  {
+    "pincode": "191103",
+    "officename": "Zantrag B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Srinagar",
+    "regionname": "Srinagar HQ",
+    "circlename": "Jammukashmir",
+    "Taluk": "Pulwama",
+    "Districtname": "Ananthnag",
+    "statename": "JAMMU & KASHMIR"
+  }
+]
