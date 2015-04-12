@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "413003",
+    "officename": "Gurunanak Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Solapur",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Solapur North",
+    "Districtname": "Solapur",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "413003",
+    "officename": "Medical College S.O (Solapur)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Solapur",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Solapur North",
+    "Districtname": "Solapur",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "413003",
+    "officename": "Sadar Bazar S.O (Solapur)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Solapur",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Solapur North",
+    "Districtname": "Solapur",
+    "statename": "MAHARASHTRA"
+  }
+]
