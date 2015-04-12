@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "387002",
+    "officename": "Bilodara B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Kheda",
+    "regionname": "Vadodara",
+    "circlename": "Gujarat",
+    "Taluk": "Naidiad",
+    "Districtname": "Kheda",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "387002",
+    "officename": "Methodist Hospital Tso Nad S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Kheda",
+    "regionname": "Vadodara",
+    "circlename": "Gujarat",
+    "Taluk": "Nadiad",
+    "Districtname": "Kheda",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "387002",
+    "officename": "Patel Society Area Tso Nad S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Kheda",
+    "regionname": "Vadodara",
+    "circlename": "Gujarat",
+    "Taluk": "Nadiad",
+    "Districtname": "Kheda",
+    "statename": "GUJARAT"
+  }
+]
