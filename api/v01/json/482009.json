@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "482009",
+    "officename": "Shobhapur S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Jabalpur",
+    "regionname": "Indore",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Jabalpur",
+    "Districtname": "Jabalpur",
+    "statename": "MADHYA PRADESH"
+  },
+  {
+    "pincode": "482009",
+    "officename": "Vehicle Factory S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Jabalpur",
+    "regionname": "Indore",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Jabalpur",
+    "Districtname": "Jabalpur",
+    "statename": "MADHYA PRADESH"
+  }
+]
