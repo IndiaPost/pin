@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "400086",
+    "officename": "Ghatkopar West S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mumbai  North East",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400086",
+    "officename": "Rifle Range S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  North East",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400086",
+    "officename": "Sahakar Bhavan S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  North East",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  }
+]
