@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "500049",
+    "officename": "Mathrusri Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Secunderabad",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Serilingampally",
+    "Districtname": "K.V.Rangareddy",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500049",
+    "officename": "Miyapur S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Secunderabad",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Tirumalagiri",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  }
+]
