@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "411041",
+    "officename": "Dhayari B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Pune City West",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Haveli",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "411041",
+    "officename": "Nanded B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Pune City West",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Haveli",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "411041",
+    "officename": "Sinhgad Technical Education Society",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Pune City West",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Haveli",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "411041",
+    "officename": "Vadgaon Budruk S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Pune City West",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Pune City",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  }
+]
