@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "506009",
+    "officename": "Naimnagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Hanamkonda",
+    "regionname": "Hyderabad",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Hanamkonda",
+    "Districtname": "Warangal",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "506009",
+    "officename": "Vidyaranyapuri S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Hanamkonda",
+    "regionname": "Hyderabad",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Hanamkonda",
+    "Districtname": "Warangal",
+    "statename": "ANDHRA PRADESH"
+  }
+]
