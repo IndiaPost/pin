@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "400102",
+    "officename": "Jogeshwari West S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mumbai  North West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Jogeshwari West",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400102",
+    "officename": "Oshiwara S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  North West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Jogeshwari West",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  }
+]
