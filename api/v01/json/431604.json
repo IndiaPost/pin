@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "431604",
+    "officename": "Chauphala S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Nanded",
+    "regionname": "Aurangabad",
+    "circlename": "Maharashtra",
+    "Taluk": "Bhokar",
+    "Districtname": "Nanded",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "431604",
+    "officename": "Itwara Nanded S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Nanded",
+    "regionname": "Aurangabad",
+    "circlename": "Maharashtra",
+    "Taluk": "Bhokar",
+    "Districtname": "Nanded",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "431604",
+    "officename": "Karimabad Nanded S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Nanded",
+    "regionname": "Aurangabad",
+    "circlename": "Maharashtra",
+    "Taluk": "Bhokar",
+    "Districtname": "Nanded",
+    "statename": "MAHARASHTRA"
+  }
+]
