@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "444606",
+    "officename": "Congress Nagar S.O (Amravati)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Amaravati",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Amravati",
+    "Districtname": "Amravati",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "444606",
+    "officename": "Gokul Market S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Amaravati",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Amravati",
+    "Districtname": "Amravati",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "444606",
+    "officename": "Rukhmini Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Amaravati",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Amravati",
+    "Districtname": "Amravati",
+    "statename": "MAHARASHTRA"
+  }
+]
