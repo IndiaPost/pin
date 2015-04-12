@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "400068",
+    "officename": "Dahisar RS S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  North West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Dahisar West",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400068",
+    "officename": "Dahisar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mumbai  North West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Dahisar East",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400068",
+    "officename": "Ketkipada B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  North West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Dahisar East",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  }
+]
