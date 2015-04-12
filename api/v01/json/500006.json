@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "500006",
+    "officename": "Karwan Sahu S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Hyderabad City",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Asifnagar",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500006",
+    "officename": "Kulsumpura S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Hyderabad City",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Asifnagar",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500006",
+    "officename": "Mangalhat S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Hyderabad City",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Asifnagar",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  }
+]
