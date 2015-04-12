@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "400095",
+    "officename": "Ins Hamla S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  North West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Malad West",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400095",
+    "officename": "Kharodi S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mumbai  North West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Malad West",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  }
+]
