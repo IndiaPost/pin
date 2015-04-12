@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "452009",
+    "officename": "Lokmanya Nagar Indore S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Indore City",
+    "regionname": "Indore",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Indore",
+    "Districtname": "Indore",
+    "statename": "MADHYA PRADESH"
+  },
+  {
+    "pincode": "452009",
+    "officename": "Sudama Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Indore City",
+    "regionname": "Indore",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Indore",
+    "Districtname": "Indore",
+    "statename": "MADHYA PRADESH"
+  }
+]
