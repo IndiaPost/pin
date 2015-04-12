@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "401202",
+    "officename": "Bassein Road S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Thane West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Bassein",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "401202",
+    "officename": "Umela B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Thane West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Vasai",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "401202",
+    "officename": "Vasai Road E S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Thane West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Vasai",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  }
+]
