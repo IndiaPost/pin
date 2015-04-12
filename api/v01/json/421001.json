@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "421001",
+    "officename": "Bus Terminus S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Thane Central",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Kalyan",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "421001",
+    "officename": "Ulhasnagar-1 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Thane Central",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Ulhasnagar",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  }
+]
