@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "421201",
+    "officename": "Dombivali S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Thane Central",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Kalyan",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "421201",
+    "officename": "Ramnagar S.O (Thane)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Thane Central",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Kalyan",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "421201",
+    "officename": "Thakurli B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Thane Central",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Kalyan",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "421201",
+    "officename": "Tilaknagar S.O (Thane)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Thane Central",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Kalyan",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  }
+]
