@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "444004",
+    "officename": "Chandur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Akola",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "Washim",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "444004",
+    "officename": "Gandhinagar S.O (Akola)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Akola",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Akola",
+    "Districtname": "Akola",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "444004",
+    "officename": "Kaulkhed S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Akola",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Akola",
+    "Districtname": "Akola",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "444004",
+    "officename": "Malkapur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Akola",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "Washim",
+    "statename": "MAHARASHTRA"
+  }
+]
