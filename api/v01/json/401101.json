@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "401101",
+    "officename": "Bhayander West S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Thane West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Thane",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "401101",
+    "officename": "Rai B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Thane West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Vasai",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  }
+]
