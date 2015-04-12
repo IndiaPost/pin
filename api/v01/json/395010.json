@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "395010",
+    "officename": "Bombay Market S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Surat",
+    "regionname": "Vadodara",
+    "circlename": "Gujarat",
+    "Taluk": "Surat City",
+    "Districtname": "Surat",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "395010",
+    "officename": "Kumbharia B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Surat",
+    "regionname": "Vadodara",
+    "circlename": "Gujarat",
+    "Taluk": "Choryasi",
+    "Districtname": "Surat",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "395010",
+    "officename": "Parvat Patia S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Surat",
+    "regionname": "Vadodara",
+    "circlename": "Gujarat",
+    "Taluk": "Choryasi",
+    "Districtname": "Surat",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "395010",
+    "officename": "Saroli B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Surat",
+    "regionname": "Vadodara",
+    "circlename": "Gujarat",
+    "Taluk": "Choryasi",
+    "Districtname": "Surat",
+    "statename": "GUJARAT"
+  }
+]
