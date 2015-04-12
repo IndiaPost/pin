@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "416420",
+    "officename": "Bhose B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Sangli",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Miraj",
+    "Districtname": "Sangli",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "416420",
+    "officename": "Dhulgaon B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Sangli",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Tasgaon",
+    "Districtname": "Sangli",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "416420",
+    "officename": "Soni S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Sangli",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Miraj",
+    "Districtname": "Sangli",
+    "statename": "MAHARASHTRA"
+  }
+]
