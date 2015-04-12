@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "440002",
+    "officename": "Nagpur City H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Nagpur City",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Nagpur",
+    "Districtname": "Nagpur",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "440002",
+    "officename": "Nayapura S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Nagpur City",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Nagpur",
+    "Districtname": "Nagpur",
+    "statename": "MAHARASHTRA"
+  }
+]
