@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "400071",
+    "officename": "Chembur H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mumbai  North East",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400071",
+    "officename": "Sindhi Society S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  North East",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  }
+]
