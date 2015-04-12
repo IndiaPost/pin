@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "421002",
+    "officename": "Bhaji Market S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Thane Central",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Ambarnath",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "421002",
+    "officename": "Station Road Unr-3 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Thane Central",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Kalyan",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "421002",
+    "officename": "Ulhasnagar-2 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Thane Central",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Kalyan",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  }
+]
