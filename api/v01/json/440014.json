@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "440014",
+    "officename": "Bezonbagh S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Nagpur City",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Nagpur",
+    "Districtname": "Nagpur",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "440014",
+    "officename": "Jaripatka S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Nagpur City",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Nagpur",
+    "Districtname": "Nagpur",
+    "statename": "MAHARASHTRA"
+  }
+]
