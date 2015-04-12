@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "462004",
+    "officename": "M.P. Vidhan Sabha S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Bhopal",
+    "regionname": "Bhopal HQ",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Huzur",
+    "Districtname": "Bhopal",
+    "statename": "MADHYA PRADESH"
+  },
+  {
+    "pincode": "462004",
+    "officename": "Satpura S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Bhopal",
+    "regionname": "Bhopal HQ",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Huzur",
+    "Districtname": "Bhopal",
+    "statename": "MADHYA PRADESH"
+  },
+  {
+    "pincode": "462004",
+    "officename": "Vallabh Bhawan S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Bhopal",
+    "regionname": "Bhopal HQ",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Huzur",
+    "Districtname": "Bhopal",
+    "statename": "MADHYA PRADESH"
+  }
+]
