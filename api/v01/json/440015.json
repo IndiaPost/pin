@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "440015",
+    "officename": "Narendra Nagar S.O (Nagpur)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Nagpur City",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Nagpur",
+    "Districtname": "Nagpur",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "440015",
+    "officename": "Samartha Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Nagpur City",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Nagpur",
+    "Districtname": "Nagpur",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "440015",
+    "officename": "Vivekanand Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Nagpur City",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Nagpur",
+    "Districtname": "Nagpur",
+    "statename": "MAHARASHTRA"
+  }
+]
