@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "470004",
+    "officename": "Gambhiriyia B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Sagar",
+    "regionname": "Bhopal HQ",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Banda",
+    "Districtname": "Sagar",
+    "statename": "MADHYA PRADESH"
+  },
+  {
+    "pincode": "470004",
+    "officename": "Pamakhedi B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Sagar",
+    "regionname": "Bhopal HQ",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Sagar",
+    "Districtname": "Sagar",
+    "statename": "MADHYA PRADESH"
+  },
+  {
+    "pincode": "470004",
+    "officename": "Sagar Makronia Camp S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Sagar",
+    "regionname": "Bhopal HQ",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Sagar",
+    "Districtname": "Sagar",
+    "statename": "MADHYA PRADESH"
+  },
+  {
+    "pincode": "470004",
+    "officename": "Sagar Rajakhedi S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Sagar",
+    "regionname": "Bhopal HQ",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Sagar",
+    "Districtname": "Sagar",
+    "statename": "MADHYA PRADESH"
+  }
+]
