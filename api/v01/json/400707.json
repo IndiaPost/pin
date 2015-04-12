@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "400707",
+    "officename": "Jaskhar B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Mumbai",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Uran",
+    "Districtname": "Raigarh(MH)",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400707",
+    "officename": "Jnpt S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "New Mumbai",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Uran",
+    "Districtname": "Raigarh(MH)",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400707",
+    "officename": "Navghar B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Mumbai",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Uran",
+    "Districtname": "Raigarh(MH)",
+    "statename": "MAHARASHTRA"
+  }
+]
