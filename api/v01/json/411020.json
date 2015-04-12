@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "411020",
+    "officename": "Botanical Garden S.O (Pune)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Pune City West",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Pune City",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "411020",
+    "officename": "Range Hills S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Pune City West",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Pune City",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  }
+]
