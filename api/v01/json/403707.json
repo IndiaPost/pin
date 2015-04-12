@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "403707",
+    "officename": "Davorlim B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Salcete",
+    "Districtname": "South Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403707",
+    "officename": "Navelim S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Salcete",
+    "Districtname": "South Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403707",
+    "officename": "Talaulim B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Salcete",
+    "Districtname": "South Goa",
+    "statename": "GOA"
+  }
+]
