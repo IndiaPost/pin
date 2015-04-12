@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "400708",
+    "officename": "Airoli B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Mumbai",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Thane",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400708",
+    "officename": "Airoli S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "New Mumbai",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Digha",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  }
+]
