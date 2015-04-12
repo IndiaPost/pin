@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "400097",
+    "officename": "Malad East S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mumbai  North West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Malad East",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400097",
+    "officename": "Rani Sati Marg S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  North West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Malad East",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  }
+]
