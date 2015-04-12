@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "500030",
+    "officename": "A.G.College S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Hyderabad South East",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Rajendranagar",
+    "Districtname": "K.V.Rangareddy",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500030",
+    "officename": "Aperl B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Hyderabad South East",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Rajendranagar",
+    "Districtname": "K.V.Rangareddy",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500030",
+    "officename": "Kismathpur B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Hyderabad South East",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Hyderabad",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500030",
+    "officename": "Rajendranagar S.O (K.V.Rangareddy)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Hyderabad South East",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Rajendranagar",
+    "Districtname": "K.V.Rangareddy",
+    "statename": "ANDHRA PRADESH"
+  }
+]
