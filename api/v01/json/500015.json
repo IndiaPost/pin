@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "500015",
+    "officename": "Aoc Records S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Secunderabad",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Tirumalagiri",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500015",
+    "officename": "EME Records S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Secunderabad",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Tirumalagiri",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500015",
+    "officename": "Trimulgherry H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Secunderabad",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Rangareddy",
+    "Districtname": "K.V.Rangareddy",
+    "statename": "ANDHRA PRADESH"
+  }
+]
