@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "411011",
+    "officename": "Kasba Peth S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Pune City West",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Pune City",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "411011",
+    "officename": "Mangalwar Peth S.O (Pune)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Pune City West",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Pune City",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "411011",
+    "officename": "Rasta Peth S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Pune City West",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Pune City",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  }
+]
