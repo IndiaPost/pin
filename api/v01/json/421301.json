@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "421301",
+    "officename": "Kalyan City H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Thane Central",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Kalyan",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "421301",
+    "officename": "Kalyan D.C. S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Thane Central",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Kalyan",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "421301",
+    "officename": "Kalyan Rs S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Thane Central",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Kalyan",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "421301",
+    "officename": "Subhash Road S.O (Thane)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Thane Central",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Kalyan",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  }
+]
