@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "400704",
+    "officename": "Mora B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Mumbai",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Uran",
+    "Districtname": "Raigarh(MH)",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400704",
+    "officename": "N.S.Karanja S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "New Mumbai",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Uran",
+    "Districtname": "Raigarh(MH)",
+    "statename": "MAHARASHTRA"
+  }
+]
