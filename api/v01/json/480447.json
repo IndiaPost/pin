@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "480447",
+    "officename": "Barkuhi B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Chhindwara",
+    "regionname": "Bhopal HQ",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Chandametta",
+    "Districtname": "Chhindwara",
+    "statename": "MADHYA PRADESH"
+  },
+  {
+    "pincode": "480447",
+    "officename": "Chandametta S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chhindwara",
+    "regionname": "Bhopal HQ",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Chhindwara",
+    "Districtname": "Chhindwara",
+    "statename": "MADHYA PRADESH"
+  }
+]
