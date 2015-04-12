@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "500060",
+    "officename": "Chaithanyapuri Colony S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Hyderabad South East",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Saroornagar",
+    "Districtname": "K.V.Rangareddy",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500060",
+    "officename": "Dilsukhnagar Colony S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Hyderabad South East",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Saroornagar",
+    "Districtname": "K.V.Rangareddy",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500060",
+    "officename": "P & T Colony S.O (K.V.Rangareddy)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Hyderabad South East",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Saroornagar",
+    "Districtname": "K.V.Rangareddy",
+    "statename": "ANDHRA PRADESH"
+  }
+]
