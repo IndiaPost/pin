@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "400706",
+    "officename": "Darave B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "New Mumbai",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Thane",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400706",
+    "officename": "Nerul Node-II S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Mumbai",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400706",
+    "officename": "Nerul Node-III S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "New Mumbai",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400706",
+    "officename": "Nerul Sec-48 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "New Mumbai",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  }
+]
