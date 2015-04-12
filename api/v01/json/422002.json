@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "422002",
+    "officename": "Gole Colony S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Nasik",
+    "regionname": "Aurangabad",
+    "circlename": "Maharashtra",
+    "Taluk": "Nashik",
+    "Districtname": "Nashik",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "422002",
+    "officename": "Jeevan Prakash S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Nasik",
+    "regionname": "Aurangabad",
+    "circlename": "Maharashtra",
+    "Taluk": "Nashik",
+    "Districtname": "Nashik",
+    "statename": "MAHARASHTRA"
+  }
+]
