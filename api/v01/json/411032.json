@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "411032",
+    "officename": "Airport S.O (Pune)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Pune City East",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Pune City",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "411032",
+    "officename": "Iaf Station S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Pune City East",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Pune City",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "411032",
+    "officename": "Vidyanagar S.O (Pune)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Pune City East",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Pune City",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  }
+]
