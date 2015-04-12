@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "400067",
+    "officename": "Charkop S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  North West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Kandivlai West",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400067",
+    "officename": "Kandivali RS S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  North West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Mumbai",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400067",
+    "officename": "Kandivali West S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mumbai  North West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Kandivali West",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  }
+]
