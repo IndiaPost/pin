@@ -1,0 +1,62 @@
+[
+  {
+    "pincode": "500001",
+    "officename": "Gandhi Bhawan S.O (Hyderabad)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Hyderabad City",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Nampally",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500001",
+    "officename": "Hyderabad G.P.O.",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Hyderabad GPO",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Hyderabad",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500001",
+    "officename": "Moazzampura S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Hyderabad City",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Nampally",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500001",
+    "officename": "Seetharampet S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Hyderabad City",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Nampally",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500001",
+    "officename": "State Bank Of Hyderabad S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Hyderabad City",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Nampally",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  }
+]
