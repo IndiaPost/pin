@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "444805",
+    "officename": "Chhota Bazar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Amaravati",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Paratwada",
+    "Districtname": "Amravati",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "444805",
+    "officename": "Paratwada H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Amaravati",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Paratwada",
+    "Districtname": "Amravati",
+    "statename": "MAHARASHTRA"
+  }
+]
