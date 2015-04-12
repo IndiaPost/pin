@@ -1,0 +1,62 @@
+[
+  {
+    "pincode": "413006",
+    "officename": "Ashok Chowk S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Solapur",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Solapur North",
+    "Districtname": "Solapur",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "413006",
+    "officename": "Kardehalli B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Solapur",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Nort Solapur",
+    "Districtname": "Solapur",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "413006",
+    "officename": "Kumbhari B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Solapur",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Solapur South",
+    "Districtname": "Solapur",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "413006",
+    "officename": "Midc Solapur S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Solapur",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "North Solapur",
+    "Districtname": "Solapur",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "413006",
+    "officename": "Mulegaon B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Solapur",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "North  Solapur",
+    "Districtname": "Solapur",
+    "statename": "MAHARASHTRA"
+  }
+]
