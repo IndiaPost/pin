@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "390016",
+    "officename": "Industrial Estate (Vadodara) S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Vadodara West",
+    "regionname": "Vadodara",
+    "circlename": "Gujarat",
+    "Taluk": "Vadodara",
+    "Districtname": "Vadodara",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "390016",
+    "officename": "Panchvati S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Vadodara West",
+    "regionname": "Vadodara",
+    "circlename": "Gujarat",
+    "Taluk": "Vadodara",
+    "Districtname": "Vadodara",
+    "statename": "GUJARAT"
+  }
+]
