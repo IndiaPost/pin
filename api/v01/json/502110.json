@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "502110",
+    "officename": "Medak Buss stand S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Medak",
+    "regionname": "Hyderabad",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Medak",
+    "Districtname": "Medak",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "502110",
+    "officename": "Medak H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Medak",
+    "regionname": "Hyderabad",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Medak",
+    "Districtname": "Medak",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "502110",
+    "officename": "Medak Town S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Medak",
+    "regionname": "Hyderabad",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Medak",
+    "Districtname": "Medak",
+    "statename": "ANDHRA PRADESH"
+  }
+]
