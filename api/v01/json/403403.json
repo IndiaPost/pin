@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "403403",
+    "officename": "Malar B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Tiswadi",
+    "Districtname": "North Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403403",
+    "officename": "Piedade S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Tiswadi",
+    "Districtname": "North Goa",
+    "statename": "GOA"
+  }
+]
