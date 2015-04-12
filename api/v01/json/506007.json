@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "506007",
+    "officename": "Agricultur Research Station B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Warangal",
+    "regionname": "Hyderabad",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Warangal",
+    "Districtname": "Warangal",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "506007",
+    "officename": "Industrial Estate B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Warangal",
+    "regionname": "Hyderabad",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "",
+    "Districtname": "Warangal",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "506007",
+    "officename": "K.M.College S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Warangal",
+    "regionname": "Hyderabad",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Warangal",
+    "Districtname": "Warangal",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "506007",
+    "officename": "M.G.M Hospital S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Warangal",
+    "regionname": "Hyderabad",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Warangal",
+    "Districtname": "Warangal",
+    "statename": "ANDHRA PRADESH"
+  }
+]
