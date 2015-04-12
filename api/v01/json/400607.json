@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "400607",
+    "officename": "Chitalsar Manpada B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Thane Central",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Thane",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400607",
+    "officename": "Sandozbaugh S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Thane Central",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Thane",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  }
+]
