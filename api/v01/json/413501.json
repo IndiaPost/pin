@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "413501",
+    "officename": "Osmanabad H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Osmanabad",
+    "regionname": "Aurangabad",
+    "circlename": "Maharashtra",
+    "Taluk": "Osmanabad",
+    "Districtname": "Osmanabad",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "413501",
+    "officename": "Osmanabad Town S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Osmanabad",
+    "regionname": "Aurangabad",
+    "circlename": "Maharashtra",
+    "Taluk": "Osmanabad",
+    "Districtname": "Osmanabad",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "413501",
+    "officename": "Vidyanagar S.O (Osmanabad)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Osmanabad",
+    "regionname": "Aurangabad",
+    "circlename": "Maharashtra",
+    "Taluk": "Osmanabad",
+    "Districtname": "Osmanabad",
+    "statename": "MAHARASHTRA"
+  }
+]
