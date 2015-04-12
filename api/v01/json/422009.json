@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "422009",
+    "officename": "Cidco Colony S.O (Nashik)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Nasik",
+    "regionname": "Aurangabad",
+    "circlename": "Maharashtra",
+    "Taluk": "Nashik",
+    "Districtname": "Nashik",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "422009",
+    "officename": "Indira Nagar S.O (Nashik)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Nasik",
+    "regionname": "Aurangabad",
+    "circlename": "Maharashtra",
+    "Taluk": "Nashik",
+    "Districtname": "Nashik",
+    "statename": "MAHARASHTRA"
+  }
+]
