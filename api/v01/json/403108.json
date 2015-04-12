@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "403108",
+    "officename": "Batim B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Tiswadi",
+    "Districtname": "North Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403108",
+    "officename": "Curca B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Tiswadi",
+    "Districtname": "North Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403108",
+    "officename": "Goa -velha S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Tiswadi",
+    "Districtname": "North Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403108",
+    "officename": "Siridao B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Tiswadi",
+    "Districtname": "North Goa",
+    "statename": "GOA"
+  }
+]
