@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "507111",
+    "officename": "B.R.Colony S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Khammam",
+    "regionname": "Vijayawada",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Bhadrachalam",
+    "Districtname": "Khammam",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "507111",
+    "officename": "Bhadrachalam H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Khammam",
+    "regionname": "Vijayawada",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Bhadrachalam",
+    "Districtname": "Khammam",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "507111",
+    "officename": "Ramalayam S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Khammam",
+    "regionname": "Vijayawada",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Bhadrachalam",
+    "Districtname": "Khammam",
+    "statename": "ANDHRA PRADESH"
+  }
+]
