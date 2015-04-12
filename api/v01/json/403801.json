@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "403801",
+    "officename": "A.P.Dabolim S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "South Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403801",
+    "officename": "A.P.Terminal S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Mormugao",
+    "Districtname": "South Goa",
+    "statename": "GOA"
+  }
+]
