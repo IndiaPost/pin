@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "411027",
+    "officename": "Aundh Camp S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Pune City East",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "411027",
+    "officename": "Sangavi S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Pune City East",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Pune City",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  }
+]
