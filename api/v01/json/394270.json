@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "394270",
+    "officename": "Hajira S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Surat",
+    "regionname": "Vadodara",
+    "circlename": "Gujarat",
+    "Taluk": "Surat",
+    "Districtname": "Surat",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "394270",
+    "officename": "Nandniketan S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Surat",
+    "regionname": "Vadodara",
+    "circlename": "Gujarat",
+    "Taluk": "Chorasi",
+    "Districtname": "Surat",
+    "statename": "GUJARAT"
+  }
+]
