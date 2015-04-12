@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "400075",
+    "officename": "Best Staff Colony S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  North East",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400075",
+    "officename": "Pant Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mumbai  North East",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400075",
+    "officename": "R.A.Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  North East",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  }
+]
