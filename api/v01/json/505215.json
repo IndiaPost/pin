@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "505215",
+    "officename": "A.P.Colony S.O (Karim Nagar)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Peddapalli",
+    "regionname": "Hyderabad",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Ramagundam",
+    "Districtname": "Karim Nagar",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "505215",
+    "officename": "Jyothinagar S.O (Karim Nagar)",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Peddapalli",
+    "regionname": "Hyderabad",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Ramagundam",
+    "Districtname": "Karim Nagar",
+    "statename": "ANDHRA PRADESH"
+  }
+]
