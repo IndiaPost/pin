@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "411028",
+    "officename": "Gondhale Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Pune City East",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Pune",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "411028",
+    "officename": "Hadapsar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Pune City East",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Pune City",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "411028",
+    "officename": "Sasanenagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Pune City East",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Pune City",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  }
+]
