@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "403510",
+    "officename": "Canca B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Bardez",
+    "Districtname": "North Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403510",
+    "officename": "Parra S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Bardez",
+    "Districtname": "North Goa",
+    "statename": "GOA"
+  }
+]
