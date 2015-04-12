@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "444002",
+    "officename": "Akola City S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Akola",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Akola",
+    "Districtname": "Akola",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "444002",
+    "officename": "Bhurad B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Akola",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "Akola",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "444002",
+    "officename": "Gajanan Nagar B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Akola",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "Akola",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "444002",
+    "officename": "Rpts Akola S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Akola",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Akola",
+    "Districtname": "Akola",
+    "statename": "MAHARASHTRA"
+  }
+]
