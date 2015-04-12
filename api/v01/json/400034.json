@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "400034",
+    "officename": "Haji Ali S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Mumbai",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400034",
+    "officename": "Tulsiwadi S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mumbai  West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Mumbai",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  }
+]
