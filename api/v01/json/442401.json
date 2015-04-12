@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "442401",
+    "officename": "Chandrapur H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Chandrapur",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Chandrapur Ho",
+    "Districtname": "Chandrapur",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "442401",
+    "officename": "Shashtrinagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Chandrapur",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Chandrapur",
+    "Districtname": "Chandrapur",
+    "statename": "MAHARASHTRA"
+  }
+]
