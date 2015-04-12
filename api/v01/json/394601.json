@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "394601",
+    "officename": "Bardoli H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Bardoli",
+    "regionname": "Vadodara",
+    "circlename": "Gujarat",
+    "Taluk": "Bardoli",
+    "Districtname": "Surat",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "394601",
+    "officename": "Sardarbaug (Bardoli) S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Bardoli",
+    "regionname": "Vadodara",
+    "circlename": "Gujarat",
+    "Taluk": "Bardoli",
+    "Districtname": "Surat",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "394601",
+    "officename": "Sugar Factory Bardoli S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Bardoli",
+    "regionname": "Vadodara",
+    "circlename": "Gujarat",
+    "Taluk": "Bardoli",
+    "Districtname": "Surat",
+    "statename": "GUJARAT"
+  }
+]
