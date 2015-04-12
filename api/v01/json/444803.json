@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "444803",
+    "officename": "Daryapur S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Amaravati",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Daryapur",
+    "Districtname": "Amravati",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "444803",
+    "officename": "Daryapur Town S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Amaravati",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Daryapur",
+    "Districtname": "Amravati",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "444803",
+    "officename": "Khallar B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Amaravati",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Daryapur",
+    "Districtname": "Amravati",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "444803",
+    "officename": "Kokarda B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Amaravati",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Daryapur",
+    "Districtname": "Amravati",
+    "statename": "MAHARASHTRA"
+  }
+]
