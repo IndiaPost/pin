@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "400021",
+    "officename": "Nariman Point S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mumbai  South",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Mumbai",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400021",
+    "officename": "New Yogakshema S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  South",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Mumbai",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  }
+]
