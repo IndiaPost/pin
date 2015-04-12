@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "400037",
+    "officename": "Antop Hill S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mumbai  East",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Mumbai",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400037",
+    "officename": "B P T Colony S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  East",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Mumbai",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400037",
+    "officename": "C G S Colony S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  East",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Mumbai",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400037",
+    "officename": "Wadala Truck Terminal S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  East",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  }
+]
