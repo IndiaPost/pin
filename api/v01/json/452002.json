@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "452002",
+    "officename": "Indore City-2 S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Indore City",
+    "regionname": "Indore",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Indore",
+    "Districtname": "Indore",
+    "statename": "MADHYA PRADESH"
+  },
+  {
+    "pincode": "452002",
+    "officename": "Indore Cloth Market S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Indore City",
+    "regionname": "Indore",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Indore",
+    "Districtname": "Indore",
+    "statename": "MADHYA PRADESH"
+  },
+  {
+    "pincode": "452002",
+    "officename": "Indore Raj Mohalla S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Indore City",
+    "regionname": "Indore",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Indore",
+    "Districtname": "Indore",
+    "statename": "MADHYA PRADESH"
+  }
+]
