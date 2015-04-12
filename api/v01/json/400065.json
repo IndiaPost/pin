@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "400065",
+    "officename": "Aareymilk Colony S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mumbai  North West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Goregaon East",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400065",
+    "officename": "Nagari Niwara S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  North West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Goregaon East",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400065",
+    "officename": "S R P F Camp S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  North West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Jogeshwari East",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  }
+]
