@@ -1,0 +1,62 @@
+[
+  {
+    "pincode": "500010",
+    "officename": "Alwal S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Secunderabad",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Tirumalagiri",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500010",
+    "officename": "Bolarum Bazar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Secunderabad",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Tirumalagiri",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500010",
+    "officename": "Bolarum S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Secunderabad",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Tirumalagiri",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500010",
+    "officename": "Haiglines S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Secunderabad",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Tirumalagiri",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500010",
+    "officename": "Kowkoor B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Secunderabad",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Malkagiri Manda",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  }
+]
