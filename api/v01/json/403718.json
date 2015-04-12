@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "403718",
+    "officename": "Camurlim B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Salcete",
+    "Districtname": "South Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403718",
+    "officename": "Loutolim S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Salcete",
+    "Districtname": "South Goa",
+    "statename": "GOA"
+  }
+]
