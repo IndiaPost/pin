@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "444001",
+    "officename": "Akola H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Akola",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Akola",
+    "Districtname": "Akola",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "444001",
+    "officename": "Ramdaspeth Akola S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Akola",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Akola",
+    "Districtname": "Akola",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "444001",
+    "officename": "Ranpisenagar Akola S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Akola",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Akola",
+    "Districtname": "Akola",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "444001",
+    "officename": "Tilak Road Akola S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Akola",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Akola",
+    "Districtname": "Akola",
+    "statename": "MAHARASHTRA"
+  }
+]
