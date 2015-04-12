@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "390020",
+    "officename": "Akota S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Vadodara West",
+    "regionname": "Vadodara",
+    "circlename": "Gujarat",
+    "Taluk": "Vadodara",
+    "Districtname": "Vadodara",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "390020",
+    "officename": "Sayajiganj S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Vadodara West",
+    "regionname": "Vadodara",
+    "circlename": "Gujarat",
+    "Taluk": "Vadodara",
+    "Districtname": "Vadodara",
+    "statename": "GUJARAT"
+  }
+]
