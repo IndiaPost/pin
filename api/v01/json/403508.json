@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "403508",
+    "officename": "Aldona S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Bardez",
+    "Districtname": "North Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403508",
+    "officename": "Corjuim B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Bardez",
+    "Districtname": "North Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403508",
+    "officename": "Nachinola B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Bardez",
+    "Districtname": "North Goa",
+    "statename": "GOA"
+  }
+]
