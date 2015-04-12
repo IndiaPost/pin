@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "400020",
+    "officename": "Central Building S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  South",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Mumbai",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400020",
+    "officename": "Churchgate S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Mumbai  South",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Mumbai",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "400020",
+    "officename": "Marine Lines S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Mumbai  South",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Mumbai",
+    "Districtname": "Mumbai",
+    "statename": "MAHARASHTRA"
+  }
+]
