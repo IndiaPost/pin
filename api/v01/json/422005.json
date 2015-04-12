@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "422005",
+    "officename": "Bhonsala Military School B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Nasik",
+    "regionname": "Aurangabad",
+    "circlename": "Maharashtra",
+    "Taluk": "Nashik",
+    "Districtname": "Nashik",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "422005",
+    "officename": "H P T College S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Nasik",
+    "regionname": "Aurangabad",
+    "circlename": "Maharashtra",
+    "Taluk": "Nashik",
+    "Districtname": "Nashik",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "422005",
+    "officename": "Udhoji Maratha Boarding B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Nasik",
+    "regionname": "Aurangabad",
+    "circlename": "Maharashtra",
+    "Taluk": "Nashik",
+    "Districtname": "Nashik",
+    "statename": "MAHARASHTRA"
+  }
+]
