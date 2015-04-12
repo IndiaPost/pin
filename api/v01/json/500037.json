@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "500037",
+    "officename": "Balanagar Township S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Secunderabad",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Rangareddy",
+    "Districtname": "K.V.Rangareddy",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500037",
+    "officename": "CIE Balangar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Secunderabad",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Tirumalagiri",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500037",
+    "officename": "Rangareddynagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Secunderabad",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Tirumalagiri",
+    "Districtname": "Hyderabad",
+    "statename": "ANDHRA PRADESH"
+  }
+]
