@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "401107",
+    "officename": "Ghodbander B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Thane West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Vasai",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "401107",
+    "officename": "Kashi B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Thane West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Vasai",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "401107",
+    "officename": "Mira Road S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Thane West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Thane",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "401107",
+    "officename": "Mira S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Thane West",
+    "regionname": "Mumbai",
+    "circlename": "Maharashtra",
+    "Taluk": "Thane",
+    "Districtname": "Thane",
+    "statename": "MAHARASHTRA"
+  }
+]
