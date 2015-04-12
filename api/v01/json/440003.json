@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "440003",
+    "officename": "Ajni S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Nagpur City",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Nagpur",
+    "Districtname": "Nagpur",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "440003",
+    "officename": "Imamwada S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Nagpur City",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Nagpur",
+    "Districtname": "Nagpur",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "440003",
+    "officename": "Medical College S.O (Nagpur)",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Nagpur City",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Nagpur",
+    "Districtname": "Nagpur",
+    "statename": "MAHARASHTRA"
+  }
+]
