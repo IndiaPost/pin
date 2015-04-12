@@ -1,0 +1,62 @@
+[
+  {
+    "pincode": "495220",
+    "officename": "Chakarbhata Camp S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Bilaspur",
+    "regionname": "Raipur",
+    "circlename": "Chattisgarh",
+    "Taluk": "Bilha",
+    "Districtname": "Bilaspur(CGH)",
+    "statename": "CHATTISGARH"
+  },
+  {
+    "pincode": "495220",
+    "officename": "High Court Bilaspur S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Bilaspur",
+    "regionname": "Raipur",
+    "circlename": "Chattisgarh",
+    "Taluk": "Bilaspur",
+    "Districtname": "Bilaspur(CGH)",
+    "statename": "CHATTISGARH"
+  },
+  {
+    "pincode": "495220",
+    "officename": "Muru B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Bilaspur",
+    "regionname": "Raipur",
+    "circlename": "Chattisgarh",
+    "Taluk": "Chakarbhata Camp",
+    "Districtname": "Bilaspur(CGH)",
+    "statename": "CHATTISGARH"
+  },
+  {
+    "pincode": "495220",
+    "officename": "Sagar B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Bilaspur",
+    "regionname": "Raipur",
+    "circlename": "Chattisgarh",
+    "Taluk": "Chakarbhata Camp",
+    "Districtname": "Bilaspur(CGH)",
+    "statename": "CHATTISGARH"
+  },
+  {
+    "pincode": "495220",
+    "officename": "Sakarra B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Bilaspur",
+    "regionname": "Raipur",
+    "circlename": "Chattisgarh",
+    "Taluk": "Chakarbhata Camp",
+    "Districtname": "Bilaspur(CGH)",
+    "statename": "CHATTISGARH"
+  }
+]
