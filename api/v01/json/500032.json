@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "500032",
+    "officename": "Gachibowli S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Hyderabad City",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Seri Lingampally",
+    "Districtname": "K.V.Rangareddy",
+    "statename": "ANDHRA PRADESH"
+  },
+  {
+    "pincode": "500032",
+    "officename": "Manuu S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Hyderabad City",
+    "regionname": "Hyderabad City",
+    "circlename": "Andhra Pradesh",
+    "Taluk": "Seri Lingampally",
+    "Districtname": "K.V.Rangareddy",
+    "statename": "ANDHRA PRADESH"
+  }
+]
