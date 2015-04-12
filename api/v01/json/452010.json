@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "452010",
+    "officename": "Indore DDU Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Indore City",
+    "regionname": "Indore",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Indore",
+    "Districtname": "Indore",
+    "statename": "MADHYA PRADESH"
+  },
+  {
+    "pincode": "452010",
+    "officename": "Sanwer Link Road Indore S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Indore City",
+    "regionname": "Indore",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Indore",
+    "Districtname": "Indore",
+    "statename": "MADHYA PRADESH"
+  },
+  {
+    "pincode": "452010",
+    "officename": "Vijay Nagar S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Indore City",
+    "regionname": "Indore",
+    "circlename": "Madhya Pradesh",
+    "Taluk": "Indore",
+    "Districtname": "Indore",
+    "statename": "MADHYA PRADESH"
+  }
+]
