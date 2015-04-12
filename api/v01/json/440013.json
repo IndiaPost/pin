@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "440013",
+    "officename": "Borgaon Road S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Nagpur City",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Nagpur",
+    "Districtname": "Nagpur",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "440013",
+    "officename": "Katolroad S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Nagpur City",
+    "regionname": "Nagpur",
+    "circlename": "Maharashtra",
+    "Taluk": "Nagpur",
+    "Districtname": "Nagpur",
+    "statename": "MAHARASHTRA"
+  }
+]
