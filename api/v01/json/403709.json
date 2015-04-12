@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "403709",
+    "officename": "Curtorim S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Salcete",
+    "Districtname": "South Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403709",
+    "officename": "Macazana B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Salcete",
+    "Districtname": "South Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403709",
+    "officename": "St. Jose De Areal S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Salcete",
+    "Districtname": "South Goa",
+    "statename": "GOA"
+  }
+]
