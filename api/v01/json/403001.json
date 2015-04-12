@@ -1,0 +1,62 @@
+[
+  {
+    "pincode": "403001",
+    "officename": "C.C.Altinho S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Tiswadi",
+    "Districtname": "North Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403001",
+    "officename": "Fontainhas S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Tiswaddi",
+    "Districtname": "North Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403001",
+    "officename": "Matri Indian Antartic Station B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "",
+    "Districtname": "North Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403001",
+    "officename": "Panaji H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Tiswadi",
+    "Districtname": "North Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403001",
+    "officename": "St Inez S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Tiswadi",
+    "Districtname": "North Goa",
+    "statename": "GOA"
+  }
+]
