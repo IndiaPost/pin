@@ -1,0 +1,50 @@
+[
+  {
+    "pincode": "412102",
+    "officename": "Gulunche B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Pune Moffusil",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Purandar",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "412102",
+    "officename": "Khandobachi Wadi B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Pune Moffusil",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Baramati",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "412102",
+    "officename": "Nimbut B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Pune Moffusil",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Baramati",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  },
+  {
+    "pincode": "412102",
+    "officename": "Nira R S S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Pune Moffusil",
+    "regionname": "Pune",
+    "circlename": "Maharashtra",
+    "Taluk": "Baramati",
+    "Districtname": "Pune",
+    "statename": "MAHARASHTRA"
+  }
+]
