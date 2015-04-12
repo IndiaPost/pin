@@ -1,0 +1,38 @@
+[
+  {
+    "pincode": "403710",
+    "officename": "Cortalim S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Salcete",
+    "Districtname": "South Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403710",
+    "officename": "Sancoale B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Marmugao",
+    "Districtname": "South Goa",
+    "statename": "GOA"
+  },
+  {
+    "pincode": "403710",
+    "officename": "Thana B.O",
+    "officeType": "B.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Goa",
+    "regionname": "Goa-Panaji",
+    "circlename": "Maharashtra",
+    "Taluk": "Mormugao",
+    "Districtname": "South Goa",
+    "statename": "GOA"
+  }
+]
