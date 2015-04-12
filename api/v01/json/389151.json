@@ -1,0 +1,26 @@
+[
+  {
+    "pincode": "389151",
+    "officename": "Dahod H.O",
+    "officeType": "H.O",
+    "Deliverystatus": "Delivery",
+    "divisionname": "Panchmahals",
+    "regionname": "Vadodara",
+    "circlename": "Gujarat",
+    "Taluk": "Dohad",
+    "Districtname": "Dahod",
+    "statename": "GUJARAT"
+  },
+  {
+    "pincode": "389151",
+    "officename": "Dahod R.S S.O",
+    "officeType": "S.O",
+    "Deliverystatus": "Non-Delivery",
+    "divisionname": "Panchmahals",
+    "regionname": "Vadodara",
+    "circlename": "Gujarat",
+    "Taluk": "Dahod",
+    "Districtname": "Dahod",
+    "statename": "GUJARAT"
+  }
+]
